@@ -11,6 +11,13 @@ Welcome to Geocaching - Solving puzzles's documentation!
    :caption: Contents:
    
    start
+   text
+   letters
+   coordinates
+   codes
+   indexes
+   simple_ciphers
+   advanced_ciphers
 
 
 
