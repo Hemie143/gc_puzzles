@@ -5,6 +5,7 @@ Basics
 * There must be a distance of 161 meters between physical GC waypoints (including cache locations)
 
 Here are the items you should check within the GC page:
+
 * Description
 * Cache name
 * Main body of the page
