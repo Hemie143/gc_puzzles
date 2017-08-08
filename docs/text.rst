@@ -1,3 +1,6 @@
+Simple text puzzles
+===================
+
 This lists simple text puzzles
 
 Look for: 

@@ -19,8 +19,6 @@ Welcome to Geocaching - Solving puzzles's documentation!
    simple_ciphers
    advanced_ciphers
 
-
-
 Indices and tables
 ==================
 
