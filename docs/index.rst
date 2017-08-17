@@ -14,8 +14,8 @@ Welcome to Geocaching - Solving puzzles's documentation!
    text
    letters
    coordinates
+   substitution
    codes
-   indexes
    simple_ciphers
    advanced_ciphers
 
