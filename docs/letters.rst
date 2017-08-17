@@ -1,2 +1,6 @@
-This lists text puzzles
+.. _letters
+
+**************
+Letter puzzles
+**************
 
