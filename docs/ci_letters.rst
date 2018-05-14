@@ -32,5 +32,15 @@ Ciphers with letters only
         - Dvorak decoder
         -
         -
+    *   - Few letters fom alphabet
+        - J or Q missing
+        - Polybius Square. Bifid or Trifid Cipher
+        -
+        -
+    *   - Few letters fom alphabet
+        - GA BU ZO MEU
+        - Shadok numbers
+        -
+        -
 
 
