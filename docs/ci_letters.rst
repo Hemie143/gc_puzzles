@@ -15,5 +15,11 @@ Ciphers with letters only
     *   - Few letters fom alphabet
         - Only A or B
         - Bacon
+        -
+        -
+    *   - Few letters fom alphabet
+        - A, D, F, G, V & X
+        - ADFVGX Cipher
         - Link
         - Hint
+
