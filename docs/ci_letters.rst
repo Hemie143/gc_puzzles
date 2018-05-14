@@ -20,6 +20,17 @@ Ciphers with letters only
     *   - Few letters fom alphabet
         - A, D, F, G, V & X
         - ADFVGX Cipher
-        - Link
-        - Hint
+        -
+        -
+    *   - Few letters fom alphabet
+        - A, D, F, G & X
+        - ADFGX Cipher
+        -
+        -
+    *   - Few letters fom alphabet
+        - E missing
+        - Dvorak decoder
+        -
+        -
+
 

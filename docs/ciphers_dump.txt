@@ -1,0 +1,841 @@
+<h3 id="solver" >Games and Solver</h3><details style="padding-left: 1em;">
+	<h4 id="board_game" >Board Game</h3><ul>
+		<a href="big-boggle-solver-5x5"  title="Big Boggle Solver 5x5" class="arrow">Big Boggle Solver 5x5</a></li>
+		<a href="boggle-solver-any-size"  title="Boggle Solver (Any Size)" class="arrow">Boggle Solver (Any Size)</a></li>
+		<a href="boggle-solver-4x4"  title="Boggle Solver 4x4" class="arrow">Boggle Solver 4x4</a></li>
+		<a href="mastermind-solver"  title="Mastermind Solver" class="arrow">Mastermind Solver</a></li>
+		<a href="playing-cards"  title="Playing Cards" class="arrow">Playing Cards</a></li>
+		<a href="scrabble-solver"  title="Scrabble Solver" class="arrow">Scrabble Solver</a></li>
+		<a href="super-big-boggle-solver-6x6"  title="Super Big Boggle Solver 6x6" class="arrow">Super Big Boggle Solver 6x6</a></li>
+		<a href="wheel-of-fortune-solver"  title="Wheel of Fortune" class="arrow">Wheel of Fortune</a></li>
+		<a href="wordox-solver"  title="Wordox Solver" class="arrow">Wordox Solver</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="mobile_game" >Mobile Game</h3><ul>
+		<a href="alphabetty-solver"  title="AlphaBetty Solver" class="arrow">AlphaBetty Solver</a></li>
+		<a href="aworded-solver"  title="Aworded Solver" class="arrow">Aworded Solver</a></li>
+		<a href="dropwords-solver"  title="Dropwords Solver" class="arrow">Dropwords Solver</a></li>
+		<a href="ruzzle-solver"  title="Ruzzle Solver" class="arrow">Ruzzle Solver</a></li>
+		<a href="what-is-the-photo-solver"  title="What's the Photo Solver" class="arrow">What's the Photo Solver</a></li>
+		<a href="word-cookies-solver"  title="Word Cookies" class="arrow">Word Cookies</a></li>
+		<a href="word-streak-with-friends-solver"  title="Word Streak Solver" class="arrow">Word Streak Solver</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="word_game" >Word Game</h3><ul>
+		<a href="4-pics-1-word-solver"  title="4 Pics 1 Word Solver" class="arrow">4 Pics 1 Word Solver</a></li>
+		<a href="alphabetty-solver"  title="AlphaBetty Solver" class="arrow">AlphaBetty Solver</a></li>
+		<a href="anagram-generator"  title="Anagrams Generator" class="arrow">Anagrams Generator</a></li>
+		<a href="aworded-solver"  title="Aworded Solver" class="arrow">Aworded Solver</a></li>
+		<a href="big-boggle-solver-5x5"  title="Big Boggle Solver 5x5" class="arrow">Big Boggle Solver 5x5</a></li>
+		<a href="boggle-solver-any-size"  title="Boggle Solver (Any Size)" class="arrow">Boggle Solver (Any Size)</a></li>
+		<a href="boggle-solver-4x4"  title="Boggle Solver 4x4" class="arrow">Boggle Solver 4x4</a></li>
+		<a href="crossword-solver"  title="Crossword Solver" class="arrow">Crossword Solver</a></li>
+		<a href="dropwords-solver"  title="Dropwords Solver" class="arrow">Dropwords Solver</a></li>
+		<a href="word-extension"  title="Extend a Word" class="arrow">Extend a Word</a></li>
+		<a href="hangman-solver"  title="Hangman Solver" class="arrow">Hangman Solver</a></li>
+		<a href="harry-game"  title="Harry - The Game" class="arrow">Harry - The Game</a></li>
+		<a href="longest-word-solver"  title="Longest Word Solver" class="arrow">Longest Word Solver</a></li>
+		<a href="palindromes-generator"  title="Palindromes Generator" class="arrow">Palindromes Generator</a></li>
+		<a href="pixwords-solver"  title="Pixwords Solver" class="arrow">Pixwords Solver</a></li>
+		<a href="random-letter"  title="Random Letter" class="arrow">Random Letter</a></li>
+		<a href="random-word"  title="Random Word" class="arrow">Random Word</a></li>
+		<a href="ruzzle-solver"  title="Ruzzle Solver" class="arrow">Ruzzle Solver</a></li>
+		<a href="scrabble-solver"  title="Scrabble Solver" class="arrow">Scrabble Solver</a></li>
+		<a href="self-reference-text-generator"  title="Self-Reference Text Generator" class="arrow">Self-Reference Text Generator</a></li>
+		<a href="semordnilap-generator"  title="Semordnilap Generator" class="arrow">Semordnilap Generator</a></li>
+		<a href="shuffled-letters"  title="Shuffled Letters" class="arrow">Shuffled Letters</a></li>
+		<a href="super-big-boggle-solver-6x6"  title="Super Big Boggle Solver 6x6" class="arrow">Super Big Boggle Solver 6x6</a></li>
+		<a href="what-the-phrase-solver"  title="What's the Phrase" class="arrow">What's the Phrase</a></li>
+		<a href="wheel-of-fortune-solver"  title="Wheel of Fortune" class="arrow">Wheel of Fortune</a></li>
+		<a href="word-academy-solver"  title="Word Academy Solver" class="arrow">Word Academy Solver</a></li>
+		<a href="word-charm-solver"  title="Word Charm" class="arrow">Word Charm</a></li>
+		<a href="word-connect"  title="Word Connect" class="arrow">Word Connect</a></li>
+		<a href="word-cookies-solver"  title="Word Cookies" class="arrow">Word Cookies</a></li>
+		<a href="word-crack-solver"  title="Word Crack Solver" class="arrow">Word Crack Solver</a></li>
+		<a href="word-crumble"  title="Word Crumble" class="arrow">Word Crumble</a></li>
+		<a href="word-letter-add"  title="Word Letter Add" class="arrow">Word Letter Add</a></li>
+		<a href="word-letter-change"  title="Word Letter Change" class="arrow">Word Letter Change</a></li>
+		<a href="word-letter-remove"  title="Word Letter Remove" class="arrow">Word Letter Remove</a></li>
+		<a href="words-mixer"  title="Word Mixer" class="arrow">Word Mixer</a></li>
+		<a href="word-pyramid"  title="Word Pyramid" class="arrow">Word Pyramid</a></li>
+		<a href="word-search-solver"  title="Word Search Solver" class="arrow">Word Search Solver</a></li>
+		<a href="word-snack-solver"  title="Word Snack" class="arrow">Word Snack</a></li>
+		<a href="word-streak-with-friends-solver"  title="Word Streak Solver" class="arrow">Word Streak Solver</a></li>
+		<a href="wordbrain-solver"  title="WordBrain Solver" class="arrow">WordBrain Solver</a></li>
+		<a href="word-bubbles-solver"  title="WordBubbles Solver" class="arrow">WordBubbles Solver</a></li>
+		<a href="wordalot-solver"  title="Wordalot Solver" class="arrow">Wordalot Solver</a></li>
+		<a href="wordament-solver"  title="Wordament Solver" class="arrow">Wordament Solver</a></li>
+		<a href="wordfeud-solver"  title="Wordfeud Solver" class="arrow">Wordfeud Solver</a></li>
+		<a href="wordox-solver"  title="Wordox Solver" class="arrow">Wordox Solver</a></li>
+		<a href="words-with-friends-solver"  title="Words with Friends Solver" class="arrow">Words with Friends Solver</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="number_game" >Number Game</h3><ul>
+		<a href="sudoku-10-solver"  title="10x10 Sudoku Solver" class="arrow">10x10 Sudoku Solver</a></li>
+		<a href="beghilos-spelling"  title="BEGHILOS Spelling" class="arrow">BEGHILOS Spelling</a></li>
+		<a href="countdown-numbers-game"  title="Countdown Numbers Game" class="arrow">Countdown Numbers Game</a></li>
+		<a href="cryptarithm-solver"  title="Cryptarithm Solver" class="arrow">Cryptarithm Solver</a></li>
+		<a href="recursive-reduction"  title="Digital Root" class="arrow">Digital Root</a></li>
+		<a href="fill-the-blanks-solver"  title="Fill The Blanks Equation Solver" class="arrow">Fill The Blanks Equation Solver</a></li>
+		<a href="hexadoku-sudoku-16-solver"  title="Hexadoku (Sudoku 16x16) Solver" class="arrow">Hexadoku (Sudoku 16x16) Solver</a></li>
+		<a href="irregular-sudoku-solver"  title="Irregular 9x9 Sudoku Solver" class="arrow">Irregular 9x9 Sudoku Solver</a></li>
+		<a href="kakuro-solver"  title="Kakuro Solver" class="arrow">Kakuro Solver</a></li>
+		<a href="lychrel-number"  title="Lychrel Number" class="arrow">Lychrel Number</a></li>
+		<a href="magic-square"  title="Magic Square" class="arrow">Magic Square</a></li>
+		<a href="mathador-solver"  title="Mathador Solver" class="arrow">Mathador Solver</a></li>
+		<a href="missing-numbers-calculator"  title="Missing Numbers Calculator" class="arrow">Missing Numbers Calculator</a></li>
+		<a href="missing-operators-equation-solver"  title="Missing Operators Equation Solver" class="arrow">Missing Operators Equation Solver</a></li>
+		<a href="self-reference-text-generator"  title="Self-Reference Text Generator" class="arrow">Self-Reference Text Generator</a></li>
+		<a href="sudoku-solver"  title="Sudoku Solver" class="arrow">Sudoku Solver</a></li>
+		<a href="sudozen-sudoku-12-solver"  title="Sudozen (Sudoku 12x12) Solver" class="arrow">Sudozen (Sudoku 12x12) Solver</a></li>
+		<a href="digits-sum"  title="Sum of Digits" class="arrow">Sum of Digits</a></li>
+		<a href="word-value"  title="Word's Value" class="arrow">Word's Value</a></li>
+		<a href="wordoku-solver"  title="Wordoku Solver" class="arrow">Wordoku Solver</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="word_search" >Word Search</h3><ul>
+		<a href="anagram-generator"  title="Anagrams Generator" class="arrow">Anagrams Generator</a></li>
+		<a href="isogram"  title="Isogram" class="arrow">Isogram</a></li>
+		<a href="word-search-regexp"  title="Regex Word Search" class="arrow">Regex Word Search</a></li>
+		<a href="word-letter-add"  title="Word Letter Add" class="arrow">Word Letter Add</a></li>
+		<a href="word-letter-change"  title="Word Letter Change" class="arrow">Word Letter Change</a></li>
+		<a href="word-letter-remove"  title="Word Letter Remove" class="arrow">Word Letter Remove</a></li>
+		<a href="word-search"  title="Word Search" class="arrow">Word Search</a></li>
+		<a href="words-containing"  title="Words Containing ..." class="arrow">Words Containing ...</a></li>
+		<a href="words-ending-with"  title="Words Ending with ..." class="arrow">Words Ending with ...</a></li>
+		<a href="words-starting-with"  title="Words Starting with ..." class="arrow">Words Starting with ...</a></li></ul><span class="contact">...</span></details>
+    <ul>
+		<a href="missing-operators-equation-solver"  title="Missing Operators Equation Solver" class="arrow">Missing Operators Equation Solver</a></li>
+		<a href="pixwords-solver"  title="Pixwords Solver" class="arrow">Pixwords Solver</a></li>
+		<a href="word-charm-solver"  title="Word Charm" class="arrow">Word Charm</a></li>
+		<a href="word-connect"  title="Word Connect" class="arrow">Word Connect</a></li>
+		<a href="word-crumble"  title="Word Crumble" class="arrow">Word Crumble</a></li>
+		<a href="word-snack-solver"  title="Word Snack" class="arrow">Word Snack</a></li>
+		<a href="wordament-solver"  title="Wordament Solver" class="arrow">Wordament Solver</a></li>
+		<a href="wordfeud-solver"  title="Wordfeud Solver" class="arrow">Wordfeud Solver</a></li>
+		<a href="wordoku-solver"  title="Wordoku Solver" class="arrow">Wordoku Solver</a></li>
+		<a href="wordox-solver"  title="Wordox Solver" class="arrow">Wordox Solver</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="cryptography" >Cryptography</h3><details style="padding-left: 1em;"><summary>
+	<h4 id="cryptanalysis" >Cryptanalysis</h3><ul>
+		<a href="bigrams"  title="Bigrams" class="arrow">Bigrams</a></li>
+		<a href="frequency-analysis"  title="Frequency Analysis" class="arrow">Frequency Analysis</a></li>
+		<a href="index-coincidence"  title="Index of Coincidence" class="arrow">Index of Coincidence</a></li>
+		<a href="trigrams"  title="Trigrams" class="arrow">Trigrams</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="modern_cryptography" >Modern Cryptography</h3><ul>
+		<a href="hash-function"  title="Hash Function" class="arrow">Hash Function</a></li>
+		<a href="md5-hash"  title="MD5" class="arrow">MD5</a></li>
+		<a href="rsa-cipher"  title="RSA Cipher" class="arrow">RSA Cipher</a></li>
+		<a href="sha1-hash"  title="SHA-1" class="arrow">SHA-1</a></li>
+		<a href="sha256-hash"  title="SHA-256" class="arrow">SHA-256</a></li>
+		<a href="sha512-hash"  title="SHA-512" class="arrow">SHA-512</a></li>
+		<a href="xor-cipher"  title="XOR Cipher" class="arrow">XOR Cipher</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="polyalphabetic_cipher" >Poly-Alphabetic Cipher</h3><ul>
+		<a href="alberti-cipher"  title="Alberti Cipher" class="arrow">Alberti Cipher</a></li>
+		<a href="autoclave-cipher"  title="Autoclave Cipher" class="arrow">Autoclave Cipher</a></li>
+		<a href="bazeries-cipher"  title="Bazeries Cipher" class="arrow">Bazeries Cipher</a></li>
+		<a href="beaufort-cipher"  title="Beaufort Cipher" class="arrow">Beaufort Cipher</a></li>
+		<a href="bellaso-cipher"  title="Bellaso Cipher" class="arrow">Bellaso Cipher</a></li>
+		<a href="chao-cipher"  title="Chaocipher" class="arrow">Chaocipher</a></li>
+		<a href="gronsfeld-cipher"  title="Gronsfeld Cipher" class="arrow">Gronsfeld Cipher</a></li>
+		<a href="jefferson-wheel-cipher"  title="Jefferson Wheel Cipher" class="arrow">Jefferson Wheel Cipher</a></li>
+		<a href="phillips-cipher"  title="Phillips Cipher" class="arrow">Phillips Cipher</a></li>
+		<a href="porta-cipher"  title="Porta Cipher" class="arrow">Porta Cipher</a></li>
+		<a href="trithemius-cipher"  title="Trithemius Cipher" class="arrow">Trithemius Cipher</a></li>
+		<a href="variant-beaufort-cipher"  title="Variant Beaufort Cipher" class="arrow">Variant Beaufort Cipher</a></li>
+		<a href="vernam-cipher"  title="Vernam Cipher (One Time Pad)" class="arrow">Vernam Cipher (One Time Pad)</a></li>
+		<a href="vigenere-cipher"  title="Vigenere Cipher" class="arrow">Vigenere Cipher</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="transposition_cipher" >Transposition Cipher</h3><ul>
+		<a href="adfgvx-cipher"  title="ADFGVX Cipher" class="arrow">ADFGVX Cipher</a></li>
+		<a href="adfgx-cipher"  title="ADFGX Cipher" class="arrow">ADFGX Cipher</a></li>
+		<a href="amsco-cipher"  title="AMSCO Cipher" class="arrow">AMSCO Cipher</a></li>
+		<a href="alphabetical-disorder"  title="Alphabetical Disorder" class="arrow">Alphabetical Disorder</a></li>
+		<a href="caesar-box-cipher"  title="Caesar Box Cipher" class="arrow">Caesar Box Cipher</a></li>
+		<a href="double-transposition-cipher"  title="Double Transposition Cipher" class="arrow">Double Transposition Cipher</a></li>
+		<a href="rail-fence-cipher"  title="Rail Fence (ZigZag) Cipher" class="arrow">Rail Fence (ZigZag) Cipher</a></li>
+		<a href="redefence-cipher"  title="Redefence Cipher" class="arrow">Redefence Cipher</a></li>
+		<a href="scytale-cipher"  title="Scytale Cipher" class="arrow">Scytale Cipher</a></li>
+		<a href="spiral-cipher"  title="Spiral Cipher" class="arrow">Spiral Cipher</a></li>
+		<a href="transposition-cipher"  title="Transposition Cipher" class="arrow">Transposition Cipher</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="substitution_cipher" >Substitution Cipher</h3><details style="padding-left: 1em;"><summary><h5 id="homophonic_cipher" >Homophonic Substitution Cipher</h3><ul>
+		<a href="mexican-army-cipher-wheel"  title="Mexican Army Cipher Wheel" class="arrow">Mexican Army Cipher Wheel</a></li>
+		<a href="modulo-cipher"  title="Modulo Cipher" class="arrow">Modulo Cipher</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary><h5 id="symbols" >Symbol Substitution</h3><ul>
+		<a href="atlantean-language"  title="Atlantean Language" class="arrow">Atlantean Language</a></li>
+		<a href="babylonian-numbers"  title="Babylonian Numerals" class="arrow">Babylonian Numerals</a></li>
+		<a href="betamaze-cipher"  title="Betamaze Cipher" class="arrow">Betamaze Cipher</a></li>
+		<a href="braille-alphabet"  title="Braille Alphabet" class="arrow">Braille Alphabet</a></li>
+		<a href="chinese-code"  title="Chinese Code" class="arrow">Chinese Code</a></li>
+		<a href="dancing-men-cipher"  title="Dancing Men Cipher" class="arrow">Dancing Men Cipher</a></li>
+		<a href="dotsies-writing"  title="Dotsies Font" class="arrow">Dotsies Font</a></li>
+		<a href="draconic-dragon-language"  title="Draconic Language" class="arrow">Draconic Language</a></li>
+		<a href="semaphore-flag"  title="Flag Semaphore" class="arrow">Flag Semaphore</a></li>
+		<a href="french-sign-language"  title="French Sign Language" class="arrow">French Sign Language</a></li>
+		<a href="gnommish-alphabet"  title="Gnommish Language" class="arrow">Gnommish Language</a></li>
+		<a href="ideograms"  title="Ideograms Cipher (Lines, Circles, Dots)" class="arrow">Ideograms Cipher (Lines, Circles, Dots)</a></li>
+		<a href="iokharic-language"  title="Iokharic Language" class="arrow">Iokharic Language</a></li>
+		<a href="lingua-ignota-code"  title="Lingua Ignota" class="arrow">Lingua Ignota</a></li>
+		<a href="maritime-signals-code"  title="Maritime Signals Code" class="arrow">Maritime Signals Code</a></li>
+		<a href="mary-stuart-code"  title="Mary Stuart Code" class="arrow">Mary Stuart Code</a></li>
+		<a href="mayan-numbers"  title="Mayan Numerals" class="arrow">Mayan Numerals</a></li>
+		<a href="music-sheet-cipher"  title="Music Sheet Cipher" class="arrow">Music Sheet Cipher</a></li>
+		<a href="ogham-alphabet"  title="Ogham Alphabet" class="arrow">Ogham Alphabet</a></li>
+		<a href="pigpen-cipher"  title="Pigpen Cipher" class="arrow">Pigpen Cipher</a></li>
+		<a href="semaphore-trousers-cipher"  title="Semaphore Trousers Cipher" class="arrow">Semaphore Trousers Cipher</a></li>
+		<a href="sheikah-language"  title="Sheikah Language" class="arrow">Sheikah Language</a></li>
+		<a href="symbol-font"  title="Symbol Font" class="arrow">Symbol Font</a></li>
+		<a href="templars-cipher"  title="Templars Cipher" class="arrow">Templars Cipher</a></li>
+		<a href="tom-tom-code"  title="Tom Tom Code //\" class="arrow">Tom Tom Code //\</a></li>
+		<a href="pokemon-unown-alphabet"  title="Unown Pokemon Alphabet" class="arrow">Unown Pokemon Alphabet</a></li>
+		<a href="webdings-font"  title="Webdings Font" class="arrow">Webdings Font</a></li>
+		<a href="wingdings-font"  title="Wingdings Font" class="arrow">Wingdings Font</a></li></ul><span class="contact">...</span></details><ul>
+		<a href="adfgvx-cipher"  title="ADFGVX Cipher" class="arrow">ADFGVX Cipher</a></li>
+		<a href="adfgx-cipher"  title="ADFGX Cipher" class="arrow">ADFGX Cipher</a></li>
+		<a href="alt-codes-converter"  title="ALT-Codes Converter" class="arrow">ALT-Codes Converter</a></li>
+		<a href="acere-cipher"  title="Acéré Cipher" class="arrow">Acéré Cipher</a></li>
+		<a href="affine-cipher"  title="Affine Cipher" class="arrow">Affine Cipher</a></li>
+		<a href="alphabetical-ranks-added"  title="Alphabetical Ranks Added" class="arrow">Alphabetical Ranks Added</a></li>
+		<a href="monoalphabetic-substitution"  title="Alphabetical Substitution" class="arrow">Alphabetical Substitution</a></li>
+		<a href="arnold-cipher"  title="Arnold Cipher" class="arrow">Arnold Cipher</a></li>
+		<a href="arthur-invisibles-cipher"  title="Arthur and the Invisibles Alphabet" class="arrow">Arthur and the Invisibles Alphabet</a></li>
+		<a href="atbash-mirror-cipher"  title="Atbash Mirror Cipher" class="arrow">Atbash Mirror Cipher</a></li>
+		<a href="bacon-cipher"  title="Bacon Cipher" class="arrow">Bacon Cipher</a></li>
+		<a href="base-91-encoding"  title="Base91 Cipher" class="arrow">Base91 Cipher</a></li>
+		<a href="bazeries-cipher"  title="Bazeries Cipher" class="arrow">Bazeries Cipher</a></li>
+		<a href="binary-character-shape"  title="Binary Character Shapes" class="arrow">Binary Character Shapes</a></li>
+		<a href="binary-code"  title="Binary Code" class="arrow">Binary Code</a></li>
+		<a href="book-cipher"  title="Book Cipher" class="arrow">Book Cipher</a></li>
+		<a href="caesar-cipher"  title="Caesar Cipher" class="arrow">Caesar Cipher</a></li>
+		<a href="cardan-grille"  title="Cardan Grille" class="arrow">Cardan Grille</a></li>
+		<a href="characters-type"  title="Characters Type" class="arrow">Characters Type</a></li>
+		<a href="consonants-vowels-rank-cipher"  title="Consonants/Vowels Rank Cipher" class="arrow">Consonants/Vowels Rank Cipher</a></li>
+		<a href="dtmf-code"  title="DTMF Code" class="arrow">DTMF Code</a></li>
+		<a href="enigma-machine-cipher"  title="Enigma Machine" class="arrow">Enigma Machine</a></li>
+		<a href="fractionated-morse"  title="Fractionated Morse Cipher" class="arrow">Fractionated Morse Cipher</a></li>
+		<a href="french-postal-barcode"  title="French Postal Barcode" class="arrow">French Postal Barcode</a></li>
+		<a href="gold-bug-poe"  title="Gold Bug Cipher" class="arrow">Gold Bug Cipher</a></li>
+		<a href="goron-cipher"  title="Goron Language" class="arrow">Goron Language</a></li>
+		<a href="hill-cipher"  title="Hill Cipher" class="arrow">Hill Cipher</a></li>
+		<a href="javascript-keycodes"  title="Javascript Keycodes" class="arrow">Javascript Keycodes</a></li>
+		<a href="keyboard-change-cipher"  title="Keyboard Change Cipher" class="arrow">Keyboard Change Cipher</a></li>
+		<a href="keyboard-coordinates"  title="Keyboard Coordinates" class="arrow">Keyboard Coordinates</a></li>
+		<a href="keyboard-shift-cipher"  title="Keyboard Shift Cipher" class="arrow">Keyboard Shift Cipher</a></li>
+		<a href="lspk90-cw-leet-speak-90-degrees-clockwise"  title="LSPK90 Clockwise" class="arrow">LSPK90 Clockwise</a></li>
+		<a href="letter-number-cipher"  title="Letter Number (A1Z26) A=1, B=2, C=3" class="arrow">Letter Number (A1Z26) A=1, B=2, C=3</a></li>
+		<a href="morse-code"  title="Morse Code" class="arrow">Morse Code</a></li>
+		<a href="music-notes"  title="Music Notes" class="arrow">Music Notes</a></li>
+		<a href="navajo-code"  title="Navajo Code" class="arrow">Navajo Code</a></li>
+		<a href="nihilist-cipher"  title="Nihilist Cipher" class="arrow">Nihilist Cipher</a></li>
+		<a href="numeric-keypad-draw"  title="Numeric Keypad Draw" class="arrow">Numeric Keypad Draw</a></li>
+		<a href="atomic-number-substitution"  title="Periodic Table Cipher" class="arrow">Periodic Table Cipher</a></li>
+		<a href="phone-keypad-cipher"  title="Phone Keypad Cipher" class="arrow">Phone Keypad Cipher</a></li>
+		<a href="polybius-cipher"  title="Polybius Cipher" class="arrow">Polybius Cipher</a></li>
+		<a href="prime-numbers-cipher"  title="Prime Numbers Cipher" class="arrow">Prime Numbers Cipher</a></li>
+		<a href="progressive-caesar-cipher"  title="Progressive Caesar Cipher" class="arrow">Progressive Caesar Cipher</a></li>
+		<a href="rot-cipher"  title="ROT Cipher" class="arrow">ROT Cipher</a></li>
+		<a href="rot-13-cipher"  title="ROT-13 Cipher" class="arrow">ROT-13 Cipher</a></li>
+		<a href="rot-47-cipher"  title="ROT-47 Cipher" class="arrow">ROT-47 Cipher</a></li>
+		<a href="rot5-cipher"  title="ROT-5 Cipher" class="arrow">ROT-5 Cipher</a></li>
+		<a href="shankar-speech-defect"  title="Shankar Speech Defect (Q&A)" class="arrow">Shankar Speech Defect (Q&A)</a></li>
+		<a href="shift-cipher"  title="Shift Cipher" class="arrow">Shift Cipher</a></li>
+		<a href="wetterkurzschlussel-codes"  title="Short Weather WKS Cipher" class="arrow">Short Weather WKS Cipher</a></li>
+		<a href="t9-cipher"  title="T9 Cipher (SMS)" class="arrow">T9 Cipher (SMS)</a></li>
+		<a href="trifid-cipher"  title="Trifid Cipher" class="arrow">Trifid Cipher</a></li>
+		<a href="trithemius-ave-maria"  title="Trithemius Ave Maria" class="arrow">Trithemius Ave Maria</a></li>
+		<a href="wabun-code"  title="Wabun Code" class="arrow">Wabun Code</a></li>
+		<a href="wolseley-cipher"  title="Wolseley Cipher" class="arrow">Wolseley Cipher</a></li>
+		<a href="word-desubstitution"  title="Word Desubstitution" class="arrow">Word Desubstitution</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="polygrammic_cipher" >Polygrammic Cipher</h3><ul>
+		<a href="collon-cipher"  title="Collon Cipher" class="arrow">Collon Cipher</a></li>
+		<a href="digrafid-cipher"  title="Digrafid Cipher" class="arrow">Digrafid Cipher</a></li>
+		<a href="four-squares-cipher"  title="Four Square Cipher" class="arrow">Four Square Cipher</a></li>
+		<a href="morbit-cipher"  title="Morbit Cipher" class="arrow">Morbit Cipher</a></li>
+		<a href="multitap-abc-cipher"  title="Multi-tap Cipher (SMS Mode ABC)" class="arrow">Multi-tap Cipher (SMS Mode ABC)</a></li>
+		<a href="playfair-cipher"  title="PlayFair Cipher" class="arrow">PlayFair Cipher</a></li>
+		<a href="pollux-cipher"  title="Pollux Cipher" class="arrow">Pollux Cipher</a></li>
+		<a href="three-squares-cipher"  title="Three Squares Cipher" class="arrow">Three Squares Cipher</a></li>
+		<a href="two-square-cipher"  title="Two-square Cipher" class="arrow">Two-square Cipher</a></li></ul><span class="contact">...</span></details><ul>
+		<a href="adfgx-cipher"  title="ADFGX Cipher" class="arrow">ADFGX Cipher</a></li>
+		<a href="affine-cipher"  title="Affine Cipher" class="arrow">Affine Cipher</a></li>
+		<a href="alphabetical-ranks-added"  title="Alphabetical Ranks Added" class="arrow">Alphabetical Ranks Added</a></li>
+		<a href="monoalphabetic-substitution"  title="Alphabetical Substitution" class="arrow">Alphabetical Substitution</a></li>
+		<a href="arnold-cipher"  title="Arnold Cipher" class="arrow">Arnold Cipher</a></li>
+		<a href="arthur-invisibles-cipher"  title="Arthur and the Invisibles Alphabet" class="arrow">Arthur and the Invisibles Alphabet</a></li>
+		<a href="atbash-mirror-cipher"  title="Atbash Mirror Cipher" class="arrow">Atbash Mirror Cipher</a></li>
+		<a href="base-26-cipher"  title="Base 26 Cipher" class="arrow">Base 26 Cipher</a></li>
+		<a href="base-36-cipher"  title="Base 36 Cipher" class="arrow">Base 36 Cipher</a></li>
+		<a href="base-91-encoding"  title="Base91 Cipher" class="arrow">Base91 Cipher</a></li>
+		<a href="bellaso-cipher"  title="Bellaso Cipher" class="arrow">Bellaso Cipher</a></li>
+		<a href="bifid-cipher"  title="Bifid Cipher" class="arrow">Bifid Cipher</a></li>
+		<a href="bigrams"  title="Bigrams" class="arrow">Bigrams</a></li>
+		<a href="book-cipher"  title="Book Cipher" class="arrow">Book Cipher</a></li>
+		<a href="caesar-box-cipher"  title="Caesar Box Cipher" class="arrow">Caesar Box Cipher</a></li>
+		<a href="caesar-cipher"  title="Caesar Cipher" class="arrow">Caesar Cipher</a></li>
+		<a href="cardan-grille"  title="Cardan Grille" class="arrow">Cardan Grille</a></li>
+		<a href="characters-type"  title="Characters Type" class="arrow">Characters Type</a></li>
+		<a href="deranged-alphabet-generator"  title="Deranged Alphabet Generator" class="arrow">Deranged Alphabet Generator</a></li>
+		<a href="enigma-machine-cipher"  title="Enigma Machine" class="arrow">Enigma Machine</a></li>
+		<a href="fractionated-morse"  title="Fractionated Morse Cipher" class="arrow">Fractionated Morse Cipher</a></li>
+		<a href="french-postal-barcode"  title="French Postal Barcode" class="arrow">French Postal Barcode</a></li>
+		<a href="hill-cipher"  title="Hill Cipher" class="arrow">Hill Cipher</a></li>
+		<a href="keyboard-change-cipher"  title="Keyboard Change Cipher" class="arrow">Keyboard Change Cipher</a></li>
+		<a href="keyboard-coordinates"  title="Keyboard Coordinates" class="arrow">Keyboard Coordinates</a></li>
+		<a href="keyboard-shift-cipher"  title="Keyboard Shift Cipher" class="arrow">Keyboard Shift Cipher</a></li>
+		<a href="lspk90-cw-leet-speak-90-degrees-clockwise"  title="LSPK90 Clockwise" class="arrow">LSPK90 Clockwise</a></li>
+		<a href="letter-number-cipher"  title="Letter Number (A1Z26) A=1, B=2, C=3" class="arrow">Letter Number (A1Z26) A=1, B=2, C=3</a></li>
+		<a href="letter-positions"  title="Letters Positions" class="arrow">Letters Positions</a></li>
+		<a href="mexican-army-cipher-wheel"  title="Mexican Army Cipher Wheel" class="arrow">Mexican Army Cipher Wheel</a></li>
+		<a href="morbit-cipher"  title="Morbit Cipher" class="arrow">Morbit Cipher</a></li>
+		<a href="numeric-keypad-draw"  title="Numeric Keypad Draw" class="arrow">Numeric Keypad Draw</a></li>
+		<a href="pollux-cipher"  title="Pollux Cipher" class="arrow">Pollux Cipher</a></li>
+		<a href="porta-cipher"  title="Porta Cipher" class="arrow">Porta Cipher</a></li>
+		<a href="prime-numbers-cipher"  title="Prime Numbers Cipher" class="arrow">Prime Numbers Cipher</a></li>
+		<a href="progressive-caesar-cipher"  title="Progressive Caesar Cipher" class="arrow">Progressive Caesar Cipher</a></li>
+		<a href="rot-13-cipher"  title="ROT-13 Cipher" class="arrow">ROT-13 Cipher</a></li>
+		<a href="rail-fence-cipher"  title="Rail Fence (ZigZag) Cipher" class="arrow">Rail Fence (ZigZag) Cipher</a></li>
+		<a href="scytale-cipher"  title="Scytale Cipher" class="arrow">Scytale Cipher</a></li>
+		<a href="shift-cipher"  title="Shift Cipher" class="arrow">Shift Cipher</a></li>
+		<a href="wetterkurzschlussel-codes"  title="Short Weather WKS Cipher" class="arrow">Short Weather WKS Cipher</a></li>
+		<a href="transposition-cipher"  title="Transposition Cipher" class="arrow">Transposition Cipher</a></li>
+		<a href="trigrams"  title="Trigrams" class="arrow">Trigrams</a></li>
+		<a href="trithemius-ave-maria"  title="Trithemius Ave Maria" class="arrow">Trithemius Ave Maria</a></li>
+		<a href="trithemius-cipher"  title="Trithemius Cipher" class="arrow">Trithemius Cipher</a></li>
+		<a href="variant-beaufort-cipher"  title="Variant Beaufort Cipher" class="arrow">Variant Beaufort Cipher</a></li>
+		<a href="multiplication-vigenere-cipher"  title="Vigenere Multiplicative Cipher" class="arrow">Vigenere Multiplicative Cipher</a></li>
+		<a href="word-desubstitution"  title="Word Desubstitution" class="arrow">Word Desubstitution</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="mathematics" >Mathematics</h3><details style="padding-left: 1em;"><summary>
+	<h4 id="symbolic_computation" >Symbolic Computation</h3><ul>
+		<a href="equation-addition"  title="Addition with Unknown(s)" class="arrow">Addition with Unknown(s)</a></li>
+		<a href="boolean-expressions-calculator"  title="Boolean Expressions Calculator" class="arrow">Boolean Expressions Calculator</a></li>
+		<a href="formal-calculator"  title="Calculator" class="arrow">Calculator</a></li>
+		<a href="fractions-calculator"  title="Calculator with Fractions" class="arrow">Calculator with Fractions</a></li>
+		<a href="square-completion"  title="Completing the Square" class="arrow">Completing the Square</a></li>
+		<a href="cube-root"  title="Cube Root" class="arrow">Cube Root</a></li>
+		<a href="differential-equation-solver"  title="Differential Equation Solver" class="arrow">Differential Equation Solver</a></li>
+		<a href="equation-division"  title="Division with Unknown(s)" class="arrow">Division with Unknown(s)</a></li>
+		<a href="domain-derivative-function"  title="Domain of Derivative of a Function" class="arrow">Domain of Derivative of a Function</a></li>
+		<a href="equation-solver"  title="Equation Solver" class="arrow">Equation Solver</a></li>
+		<a href="expanding-reducing-math"  title="Expanding and Reducing Math Expression" class="arrow">Expanding and Reducing Math Expression</a></li>
+		<a href="inequality-solver"  title="Inequality Solver" class="arrow">Inequality Solver</a></li>
+		<a href="irreductible-fraction"  title="Irreducible Fractions" class="arrow">Irreducible Fractions</a></li>
+		<a href="math-expression-expand"  title="Math Expression Expansion" class="arrow">Math Expression Expansion</a></li>
+		<a href="math-expression-factor"  title="Math Expression Factorization" class="arrow">Math Expression Factorization</a></li>
+		<a href="equation-multiplication"  title="Multiplication with Unknown(s)" class="arrow">Multiplication with Unknown(s)</a></li>
+		<a href="polynomial-factorization"  title="Polynomial Factorization" class="arrow">Polynomial Factorization</a></li>
+		<a href="primitive-integral"  title="Primitives Functions" class="arrow">Primitives Functions</a></li>
+		<a href="math-simplification"  title="Simplifier for Math Expressions" class="arrow">Simplifier for Math Expressions</a></li>
+		<a href="square-root"  title="Square Root" class="arrow">Square Root</a></li>
+		<a href="equation-subtraction"  title="Subtraction with Unknown(s)" class="arrow">Subtraction with Unknown(s)</a></li>
+		<a href="vertex-form-quadratic"  title="Vertex Form of a Quadratic" class="arrow">Vertex Form of a Quadratic</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="arithmetics" >Arithmetics</h3><ul>
+		<a href="2-factors-decomposition"  title="2 Factors Decomposition" class="arrow">2 Factors Decomposition</a></li>
+		<a href="base-26-cipher"  title="Base 26 Cipher" class="arrow">Base 26 Cipher</a></li>
+		<a href="base-n-convert"  title="Base N Convert" class="arrow">Base N Convert</a></li>
+		<a href="bibi-binary-code"  title="Bibi-binary Code" class="arrow">Bibi-binary Code</a></li>
+		<a href="binary-code"  title="Binary Code" class="arrow">Binary Code</a></li>
+		<a href="chinese-remainder"  title="Chinese Remainder" class="arrow">Chinese Remainder</a></li>
+		<a href="complex-number-argument"  title="Complex Number Argument" class="arrow">Complex Number Argument</a></li>
+		<a href="coprimes"  title="Coprimes" class="arrow">Coprimes</a></li>
+		<a href="cryptarithm-solver"  title="Cryptarithm Solver" class="arrow">Cryptarithm Solver</a></li>
+		<a href="big-numbers-division"  title="Division" class="arrow">Division</a></li>
+		<a href="divisors-list-number"  title="Divisors of a Number" class="arrow">Divisors of a Number</a></li>
+		<a href="euclidean-division"  title="Euclidean Division" class="arrow">Euclidean Division</a></li>
+		<a href="euler-totient"  title="Euler's Totient" class="arrow">Euler's Totient</a></li>
+		<a href="exponentiation-calculation"  title="Exponentiation" class="arrow">Exponentiation</a></li>
+		<a href="factorial"  title="Factorial" class="arrow">Factorial</a></li>
+		<a href="fill-the-blanks-solver"  title="Fill The Blanks Equation Solver" class="arrow">Fill The Blanks Equation Solver</a></li>
+		<a href="gcd"  title="GCD (Greatest Common Divisor)" class="arrow">GCD (Greatest Common Divisor)</a></li>
+		<a href="hexadecimal-system"  title="Hexadecimal (Base 16)" class="arrow">Hexadecimal (Base 16)</a></li>
+		<a href="irreductible-fraction"  title="Irreducible Fractions" class="arrow">Irreducible Fractions</a></li>
+		<a href="knuth-arrows"  title="Knuth's Arrows" class="arrow">Knuth's Arrows</a></li>
+		<a href="lcm"  title="LCM (Lowest Common Multiple)" class="arrow">LCM (Lowest Common Multiple)</a></li>
+		<a href="luhn-algorithm"  title="Luhn Number Checksum" class="arrow">Luhn Number Checksum</a></li>
+		<a href="draw-scale"  title="Map Scale" class="arrow">Map Scale</a></li>
+		<a href="missing-numbers-calculator"  title="Missing Numbers Calculator" class="arrow">Missing Numbers Calculator</a></li>
+		<a href="modular-equation-solver"  title="Modular Equation Solver" class="arrow">Modular Equation Solver</a></li>
+		<a href="modular-exponentiation-calculus"  title="Modular Exponentiation" class="arrow">Modular Exponentiation</a></li>
+		<a href="modular-inverse"  title="Modular Multiplicative Inverse" class="arrow">Modular Multiplicative Inverse</a></li>
+		<a href="modulo-n-calculator"  title="Modulo N Calculator" class="arrow">Modulo N Calculator</a></li>
+		<a href="multiples-list-number"  title="Multiples of a Number" class="arrow">Multiples of a Number</a></li>
+		<a href="big-numbers-multiplication"  title="Multiplication" class="arrow">Multiplication</a></li>
+		<a href="next-prime-number"  title="Next Prime Number" class="arrow">Next Prime Number</a></li>
+		<a href="partitions-generator"  title="Number Partitions" class="arrow">Number Partitions</a></li>
+		<a href="octal-system"  title="Octal System (Base 8)" class="arrow">Octal System (Base 8)</a></li>
+		<a href="pascal-triangle"  title="Pascal's Triangle" class="arrow">Pascal's Triangle</a></li>
+		<a href="previous-prime-number"  title="Previous Prime Number" class="arrow">Previous Prime Number</a></li>
+		<a href="primality-test"  title="Primality Test" class="arrow">Primality Test</a></li>
+		<a href="prime-number-pi-count"  title="Prime Counting Function" class="arrow">Prime Counting Function</a></li>
+		<a href="prime-factors-decomposition"  title="Prime Factors Decomposition" class="arrow">Prime Factors Decomposition</a></li>
+		<a href="prime-numbers-search"  title="Prime Numbers Search" class="arrow">Prime Numbers Search</a></li>
+		<a href="primorial"  title="Primorial" class="arrow">Primorial</a></li>
+		<a href="pythagore-triple"  title="Pythagore Triple" class="arrow">Pythagore Triple</a></li>
+		<a href="rsa-cipher"  title="RSA Cipher" class="arrow">RSA Cipher</a></li>
+		<a href="number-repeating-decimal"  title="Repeating Decimals" class="arrow">Repeating Decimals</a></li>
+		<a href="reverse-polish-notation"  title="Reverse Polish Notation" class="arrow">Reverse Polish Notation</a></li>
+		<a href="rounding-calculator"  title="Rounding Calculator" class="arrow">Rounding Calculator</a></li>
+		<a href="subfactorial"  title="Subfactorial" class="arrow">Subfactorial</a></li>
+		<a href="digits-sum"  title="Sum of Digits" class="arrow">Sum of Digits</a></li>
+		<a href="mangoldt-lambda"  title="Von Mangoldt Function" class="arrow">Von Mangoldt Function</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="combinatorics" >Combinatorics</h3><ul>
+		<a href="binomial-coefficient"  title="Binomial Coefficient" class="arrow">Binomial Coefficient</a></li>
+		<a href="combinations"  title="Combination N Choose K" class="arrow">Combination N Choose K</a></li>
+		<a href="combinations-sports-betting"  title="Combinations and Sports Betting" class="arrow">Combinations and Sports Betting</a></li>
+		<a href="combinations-with-repetitions"  title="Combinations with Repetition" class="arrow">Combinations with Repetition</a></li>
+		<a href="derangements-generator"  title="Derangements" class="arrow">Derangements</a></li>
+		<a href="expected-value-winning"  title="Expected Value of Winning" class="arrow">Expected Value of Winning</a></li>
+		<a href="partial-k-permutations"  title="K-Permutations" class="arrow">K-Permutations</a></li>
+		<a href="permutations-generator"  title="Permutations" class="arrow">Permutations</a></li>
+		<a href="permutations-with-repetitions"  title="Permutations with Repetition" class="arrow">Permutations with Repetition</a></li>
+		<a href="picking-probabilities"  title="Picking Probabilities" class="arrow">Picking Probabilities</a></li>
+		<a href="random-selection"  title="Random Selection" class="arrow">Random Selection</a></li>
+		<a href="permutation-rank"  title="Rank of a Permutation" class="arrow">Rank of a Permutation</a></li>
+		<a href="round-robin-tournament-generator"  title="Round-robin Tournament Generator" class="arrow">Round-robin Tournament Generator</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="functions" >Functions</h3><ul>
+		<a href="asymptote-function"  title="Asymptote of a Function" class="arrow">Asymptote of a Function</a></li>
+		<a href="complex-number-modulus"  title="Complex Number Modulus" class="arrow">Complex Number Modulus</a></li>
+		<a href="cube-root"  title="Cube Root" class="arrow">Cube Root</a></li>
+		<a href="differential-equation-solver"  title="Differential Equation Solver" class="arrow">Differential Equation Solver</a></li>
+		<a href="polynomial-discriminant"  title="Discriminant of a Polynomial" class="arrow">Discriminant of a Polynomial</a></li>
+		<a href="domain-definition-function"  title="Domain of Definition of a Function" class="arrow">Domain of Definition of a Function</a></li>
+		<a href="function-image"  title="Image of a Function" class="arrow">Image of a Function</a></li>
+		<a href="lagrange-interpolating-polynomial"  title="Lagrange Interpolating Polynomial" class="arrow">Lagrange Interpolating Polynomial</a></li>
+		<a href="period-function"  title="Period of a Function" class="arrow">Period of a Function</a></li>
+		<a href="polynomial-factorization"  title="Polynomial Factorization" class="arrow">Polynomial Factorization</a></li>
+		<a href="polynomial-root"  title="Polynomial Root" class="arrow">Polynomial Root</a></li>
+		<a href="function-preimage"  title="Preimage of a Function" class="arrow">Preimage of a Function</a></li>
+		<a href="primitive-integral"  title="Primitives Functions" class="arrow">Primitives Functions</a></li>
+		<a href="slope-coefficient"  title="Slope Coefficient" class="arrow">Slope Coefficient</a></li>
+		<a href="square-root"  title="Square Root" class="arrow">Square Root</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="geometry" >Geometry</h3><ul>
+		<a href="complex-number-argument"  title="Complex Number Argument" class="arrow">Complex Number Argument</a></li>
+		<a href="complex-number-modulus"  title="Complex Number Modulus" class="arrow">Complex Number Modulus</a></li>
+		<a href="convert-angle-unit"  title="Convert Angle Units" class="arrow">Convert Angle Units</a></li>
+		<a href="function-image"  title="Image of a Function" class="arrow">Image of a Function</a></li>
+		<a href="koch-flake"  title="Koch Flake" class="arrow">Koch Flake</a></li>
+		<a href="geometric-shapes"  title="Name of Geometric Shapes" class="arrow">Name of Geometric Shapes</a></li>
+		<a href="pick-theorem"  title="Pick's Theorem" class="arrow">Pick's Theorem</a></li>
+		<a href="function-preimage"  title="Preimage of a Function" class="arrow">Preimage of a Function</a></li>
+		<a href="pythagore-triple"  title="Pythagore Triple" class="arrow">Pythagore Triple</a></li>
+		<a href="slope-coefficient"  title="Slope Coefficient" class="arrow">Slope Coefficient</a></li>
+		<a href="unknowns-triangle"  title="Unknowns in Triangle" class="arrow">Unknowns in Triangle</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="matrix" >Matrix</h3><ul>
+		<a href="adjoint-matrix"  title="Adjoint Matrix" class="arrow">Adjoint Matrix</a></li>
+		<a href="matrix-characteristic-polynomial"  title="Characteristic Polynomial of a Matrix" class="arrow">Characteristic Polynomial of a Matrix</a></li>
+		<a href="cofactor-matrix"  title="Cofactor Matrix" class="arrow">Cofactor Matrix</a></li>
+		<a href="complex-conjugate-matrix"  title="Complex Conjugate Matrix" class="arrow">Complex Conjugate Matrix</a></li>
+		<a href="conjugate-transpose-matrix"  title="Conjugate Transpose Matrix" class="arrow">Conjugate Transpose Matrix</a></li>
+		<a href="matrix-determinant"  title="Determinant of a Matrix" class="arrow">Determinant of a Matrix</a></li>
+		<a href="matrix-eigenvalues"  title="Eigenvalues of a Matrix" class="arrow">Eigenvalues of a Matrix</a></li>
+		<a href="matrix-eigenvectors"  title="Eigenvectors of a Matrix" class="arrow">Eigenvectors of a Matrix</a></li>
+		<a href="matrix-inverse"  title="Inverse of a Matrix" class="arrow">Inverse of a Matrix</a></li>
+		<a href="matrix-jordan"  title="Jordan Normal Form Matrix" class="arrow">Jordan Normal Form Matrix</a></li>
+		<a href="kronecker-product"  title="Kronecker Product" class="arrow">Kronecker Product</a></li>
+		<a href="matrix-addition"  title="Matrix Addition" class="arrow">Matrix Addition</a></li>
+		<a href="matrix-calculator"  title="Matrix Calculator" class="arrow">Matrix Calculator</a></li>
+		<a href="matrix-diagonalization"  title="Matrix Diagonalization" class="arrow">Matrix Diagonalization</a></li>
+		<a href="matrix-direct-sum"  title="Matrix Direct Sum" class="arrow">Matrix Direct Sum</a></li>
+		<a href="matrix-division"  title="Matrix Division" class="arrow">Matrix Division</a></li>
+		<a href="matrix-power"  title="Matrix Power" class="arrow">Matrix Power</a></li>
+		<a href="matrix-multiplication"  title="Matrix Product" class="arrow">Matrix Product</a></li>
+		<a href="matrix-row-echelon"  title="Matrix Reduced Row Echelon Form" class="arrow">Matrix Reduced Row Echelon Form</a></li>
+		<a href="matrix-subtraction"  title="Matrix Subtraction" class="arrow">Matrix Subtraction</a></li>
+		<a href="matrix-permanent"  title="Permanent of a Matrix" class="arrow">Permanent of a Matrix</a></li>
+		<a href="matrix-trace"  title="Trace of a Matrix" class="arrow">Trace of a Matrix</a></li>
+		<a href="matrix-transpose"  title="Transpose of a Matrix" class="arrow">Transpose of a Matrix</a></li>
+		<a href="vector-norm"  title="Vector Norm" class="arrow">Vector Norm</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="graph_theory" >Graph Theory</h3><ul>
+		<a href="lattice-path"  title="Lattice Path" class="arrow">Lattice Path</a></li>
+		<a href="path-search-pyramid-triangle"  title="Path Search in a Pyramid Triangle" class="arrow">Path Search in a Pyramid Triangle</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="series" >Series</h3><ul>
+		<a href="continued-fractions"  title="Continued Fractions" class="arrow">Continued Fractions</a></li>
+		<a href="hamonic-number"  title="Harmonic Number" class="arrow">Harmonic Number</a></li>
+		<a href="multiples-list-number"  title="Multiples of a Number" class="arrow">Multiples of a Number</a></li>
+		<a href="pascal-triangle"  title="Pascal's Triangle" class="arrow">Pascal's Triangle</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="statistics" >Statistics</h3><ul>
+		<a href="birthday-problem"  title="Birthday Probabilities" class="arrow">Birthday Probabilities</a></li>
+		<a href="confidence-interval-survey"  title="Confidence Interval of a Survey" class="arrow">Confidence Interval of a Survey</a></li>
+		<a href="median"  title="Median of Numbers" class="arrow">Median of Numbers</a></li>
+		<a href="quartiles"  title="Quartile of Numbers" class="arrow">Quartile of Numbers</a></li>
+		<a href="standard-deviation"  title="Standard Deviation" class="arrow">Standard Deviation</a></li>
+		<a href="statistical-variance"  title="Statistical Variance" class="arrow">Statistical Variance</a></li></ul><span class="contact">...</span></details><ul>
+		<a href="2-factors-decomposition"  title="2 Factors Decomposition" class="arrow">2 Factors Decomposition</a></li>
+		<a href="arithmetic-mean"  title="Arithmetic Mean" class="arrow">Arithmetic Mean</a></li>
+		<a href="base-36-cipher"  title="Base 36 Cipher" class="arrow">Base 36 Cipher</a></li>
+		<a href="benford-law"  title="Benford's Law" class="arrow">Benford's Law</a></li>
+		<a href="bezout-identity"  title="Bezout's Identity" class="arrow">Bezout's Identity</a></li>
+		<a href="formal-calculator"  title="Calculator" class="arrow">Calculator</a></li>
+		<a href="collatz-conjecture"  title="Collatz Conjecture" class="arrow">Collatz Conjecture</a></li>
+		<a href="combinations-with-repetitions"  title="Combinations with Repetition" class="arrow">Combinations with Repetition</a></li>
+		<a href="complex-number-conjugate"  title="Complex Number Conjugate" class="arrow">Complex Number Conjugate</a></li>
+		<a href="complex-number-exponential-form"  title="Complex Number Exponential Form" class="arrow">Complex Number Exponential Form</a></li>
+		<a href="conway-sequence"  title="Conway Sequence" class="arrow">Conway Sequence</a></li>
+		<a href="definite-integral"  title="Definite Integral" class="arrow">Definite Integral</a></li>
+		<a href="derangements-generator"  title="Derangements" class="arrow">Derangements</a></li>
+		<a href="derivative"  title="Derivative" class="arrow">Derivative</a></li>
+		<a href="recursive-reduction"  title="Digital Root" class="arrow">Digital Root</a></li>
+		<a href="big-numbers-division"  title="Division" class="arrow">Division</a></li>
+		<a href="divisors-list-number"  title="Divisors of a Number" class="arrow">Divisors of a Number</a></li>
+		<a href="domain-derivative-function"  title="Domain of Derivative of a Function" class="arrow">Domain of Derivative of a Function</a></li>
+		<a href="euclidean-division"  title="Euclidean Division" class="arrow">Euclidean Division</a></li>
+		<a href="even-odd-function"  title="Even and Odd Function" class="arrow">Even and Odd Function</a></li>
+		<a href="even-odd"  title="Even or Odd Numbers" class="arrow">Even or Odd Numbers</a></li>
+		<a href="expanding-reducing-math"  title="Expanding and Reducing Math Expression" class="arrow">Expanding and Reducing Math Expression</a></li>
+		<a href="expected-value-winning"  title="Expected Value of Winning" class="arrow">Expected Value of Winning</a></li>
+		<a href="extended-gcd"  title="Extended GCD Algorithm" class="arrow">Extended GCD Algorithm</a></li>
+		<a href="extremum-function"  title="Extremum of a Function" class="arrow">Extremum of a Function</a></li>
+		<a href="factorial"  title="Factorial" class="arrow">Factorial</a></li>
+		<a href="fibonacci-numbers"  title="Fibonacci Numbers" class="arrow">Fibonacci Numbers</a></li>
+		<a href="geometric-mean"  title="Geometric Mean" class="arrow">Geometric Mean</a></li>
+		<a href="goldbach-conjecture"  title="Goldbach Conjecture" class="arrow">Goldbach Conjecture</a></li>
+		<a href="golden-ratio-digits"  title="Golden Ratio Phi Digits 1.61803..." class="arrow">Golden Ratio Phi Digits 1.61803...</a></li>
+		<a href="hexadecimal-system"  title="Hexadecimal (Base 16)" class="arrow">Hexadecimal (Base 16)</a></li>
+		<a href="chained-inequality"  title="Inequality Chained Notation" class="arrow">Inequality Chained Notation</a></li>
+		<a href="irreductible-fraction"  title="Irreducible Fractions" class="arrow">Irreducible Fractions</a></li>
+		<a href="partial-k-permutations"  title="K-Permutations" class="arrow">K-Permutations</a></li>
+		<a href="kaprekar-algorithm"  title="Kaprekar Algorithm" class="arrow">Kaprekar Algorithm</a></li>
+		<a href="lcm"  title="LCM (Lowest Common Multiple)" class="arrow">LCM (Lowest Common Multiple)</a></li>
+		<a href="limit"  title="Limit of a Function" class="arrow">Limit of a Function</a></li>
+		<a href="logarithm"  title="Logarithm" class="arrow">Logarithm</a></li>
+		<a href="magic-square"  title="Magic Square" class="arrow">Magic Square</a></li>
+		<a href="math-expression-expand"  title="Math Expression Expansion" class="arrow">Math Expression Expansion</a></li>
+		<a href="math-expression-factor"  title="Math Expression Factorization" class="arrow">Math Expression Factorization</a></li>
+		<a href="mathador-solver"  title="Mathador Solver" class="arrow">Mathador Solver</a></li>
+		<a href="maximum-function"  title="Maximum of a Function" class="arrow">Maximum of a Function</a></li>
+		<a href="mean"  title="Mean of Numbers" class="arrow">Mean of Numbers</a></li>
+		<a href="mean-function"  title="Mean of a Function" class="arrow">Mean of a Function</a></li>
+		<a href="minimum-function"  title="Minimum of a Function" class="arrow">Minimum of a Function</a></li>
+		<a href="missing-operators-equation-solver"  title="Missing Operators Equation Solver" class="arrow">Missing Operators Equation Solver</a></li>
+		<a href="modular-exponentiation-calculus"  title="Modular Exponentiation" class="arrow">Modular Exponentiation</a></li>
+		<a href="modular-inverse"  title="Modular Multiplicative Inverse" class="arrow">Modular Multiplicative Inverse</a></li>
+		<a href="modulo-n-calculator"  title="Modulo N Calculator" class="arrow">Modulo N Calculator</a></li>
+		<a href="big-numbers-multiplication"  title="Multiplication" class="arrow">Multiplication</a></li>
+		<a href="neville-interpolating-polynomial"  title="Neville Interpolating Polynomial" class="arrow">Neville Interpolating Polynomial</a></li>
+		<a href="next-prime-number"  title="Next Prime Number" class="arrow">Next Prime Number</a></li>
+		<a href="partitions-generator"  title="Number Partitions" class="arrow">Number Partitions</a></li>
+		<a href="number-sets"  title="Number Sets" class="arrow">Number Sets</a></li>
+		<a href="numbers-ending-with-some-digits"  title="Numbers Ending With..." class="arrow">Numbers Ending With...</a></li>
+		<a href="negabinary-system"  title="Négabinary" class="arrow">Négabinary</a></li>
+		<a href="octal-system"  title="Octal System (Base 8)" class="arrow">Octal System (Base 8)</a></li>
+		<a href="path-search-pyramid-triangle"  title="Path Search in a Pyramid Triangle" class="arrow">Path Search in a Pyramid Triangle</a></li>
+		<a href="percentage-fraction-proportion"  title="Percentage Calculation" class="arrow">Percentage Calculation</a></li>
+		<a href="permutations-generator"  title="Permutations" class="arrow">Permutations</a></li>
+		<a href="permutations-with-repetitions"  title="Permutations with Repetition" class="arrow">Permutations with Repetition</a></li>
+		<a href="pi-digits"  title="Pi Digits 3.14159..." class="arrow">Pi Digits 3.14159...</a></li>
+		<a href="pick-theorem"  title="Pick's Theorem" class="arrow">Pick's Theorem</a></li>
+		<a href="picking-probabilities"  title="Picking Probabilities" class="arrow">Picking Probabilities</a></li>
+		<a href="number-place-value"  title="Place Values" class="arrow">Place Values</a></li>
+		<a href="powers-of-10"  title="Powers of 10" class="arrow">Powers of 10</a></li>
+		<a href="precision-recall"  title="Precision and Recall" class="arrow">Precision and Recall</a></li>
+		<a href="previous-prime-number"  title="Previous Prime Number" class="arrow">Previous Prime Number</a></li>
+		<a href="primality-test"  title="Primality Test" class="arrow">Primality Test</a></li>
+		<a href="prime-number-pi-count"  title="Prime Counting Function" class="arrow">Prime Counting Function</a></li>
+		<a href="prime-numbers-search"  title="Prime Numbers Search" class="arrow">Prime Numbers Search</a></li>
+		<a href="primorial"  title="Primorial" class="arrow">Primorial</a></li>
+		<a href="polya-conjecture"  title="Pólya Conjecture" class="arrow">Pólya Conjecture</a></li>
+		<a href="permutation-rank"  title="Rank of a Permutation" class="arrow">Rank of a Permutation</a></li>
+		<a href="parentheses-removal"  title="Remove Parentheses" class="arrow">Remove Parentheses</a></li>
+		<a href="decimal-search"  title="Search in Decimals" class="arrow">Search in Decimals</a></li>
+		<a href="sign-positive-negative"  title="Sign (Positive/Negative)" class="arrow">Sign (Positive/Negative)</a></li>
+		<a href="subfactorial"  title="Subfactorial" class="arrow">Subfactorial</a></li>
+		<a href="unknowns-triangle"  title="Unknowns in Triangle" class="arrow">Unknowns in Triangle</a></li>
+		<a href="vector-norm"  title="Vector Norm" class="arrow">Vector Norm</a></li>
+		<a href="e-digits"  title="e Digits 2.71828..." class="arrow">e Digits 2.71828...</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="informatics" >Informatics</h3><details style="padding-left: 1em;"><summary>
+	<h4 id="character_encoding" >Character Encoding</h3><ul>
+		<a href="ascii-code"  title="ASCII Code" class="arrow">ASCII Code</a></li>
+		<a href="ascii-85-encoding"  title="ASCII85 Encoding" class="arrow">ASCII85 Encoding</a></li>
+		<a href="barcode-128"  title="Barcode 128" class="arrow">Barcode 128</a></li>
+		<a href="barcode-39"  title="Barcode 39" class="arrow">Barcode 39</a></li>
+		<a href="barcodes"  title="Barcode Generator" class="arrow">Barcode Generator</a></li>
+		<a href="base-32-encoding"  title="Base32" class="arrow">Base32</a></li>
+		<a href="base-64-coding"  title="Base64 Coding" class="arrow">Base64 Coding</a></li>
+		<a href="baudot-code"  title="Baudot Code" class="arrow">Baudot Code</a></li>
+		<a href="binary-code"  title="Binary Code" class="arrow">Binary Code</a></li>
+		<a href="qr-code"  title="QR Code" class="arrow">QR Code</a></li>
+		<a href="url-decoder"  title="URL Decoder" class="arrow">URL Decoder</a></li>
+		<a href="uu-encoding"  title="UUencode" class="arrow">UUencode</a></li>
+		<a href="unicode-coding"  title="Unicode Coding" class="arrow">Unicode Coding</a></li>
+		<a href="wingdings-font"  title="Wingdings Font" class="arrow">Wingdings Font</a></li>
+		<a href="z-base-32-encoding"  title="Z-Base-32" class="arrow">Z-Base-32</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="compression" >Compression</h3><ul>
+		<a href="burrows-wheeler-transform"  title="Burrows–Wheeler Transform" class="arrow">Burrows–Wheeler Transform</a></li>
+		<a href="lzw-compression"  title="LZW Compression" class="arrow">LZW Compression</a></li>
+		<a href="rle-compression"  title="RLE (Run-Length Encoding)" class="arrow">RLE (Run-Length Encoding)</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="internet" >Internet</h3><ul>
+		<a href="base-64-coding"  title="Base64 Coding" class="arrow">Base64 Coding</a></li>
+		<a href="html-escape"  title="HTML Escape" class="arrow">HTML Escape</a></li>
+		<a href="ip-address"  title="IP Address" class="arrow">IP Address</a></li>
+		<a href="leet-speak-1337"  title="Leet Speak 1337" class="arrow">Leet Speak 1337</a></li>
+		<a href="password-variation"  title="Passwords Variations" class="arrow">Passwords Variations</a></li>
+		<a href="rot-47-cipher"  title="ROT-47 Cipher" class="arrow">ROT-47 Cipher</a></li>
+		<a href="url-decoder"  title="URL Decoder" class="arrow">URL Decoder</a></li>
+		<a href="unicode-coding"  title="Unicode Coding" class="arrow">Unicode Coding</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="geek" >Geek</h3><ul>
+		<a href="geek-code"  title="Geek Code" class="arrow">Geek Code</a></li>
+		<a href="lspk90-cw-leet-speak-90-degrees-clockwise"  title="LSPK90 Clockwise" class="arrow">LSPK90 Clockwise</a></li>
+		<a href="leet-speak-1337"  title="Leet Speak 1337" class="arrow">Leet Speak 1337</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="algorithm" >Algorithm</h3><details style="padding-left: 1em;"><summary><h5 id="checksum" >Checksum</h3><ul>
+		<a href="bban-check"  title="BBAN Number" class="arrow">BBAN Number</a></li>
+		<a href="iban-check"  title="IBAN Number" class="arrow">IBAN Number</a></li>
+		<a href="luhn-algorithm"  title="Luhn Number Checksum" class="arrow">Luhn Number Checksum</a></li></ul><span class="contact">...</span></details><ul>
+		<a href="burrows-wheeler-transform"  title="Burrows–Wheeler Transform" class="arrow">Burrows–Wheeler Transform</a></li>
+		<a href="game-of-life"  title="Game of Life" class="arrow">Game of Life</a></li>
+		<a href="kaprekar-algorithm"  title="Kaprekar Algorithm" class="arrow">Kaprekar Algorithm</a></li>
+		<a href="ook-language"  title="Ook!" class="arrow">Ook!</a></li>
+		<a href="pikalang-language"  title="Pikalang" class="arrow">Pikalang</a></li>
+		<a href="polya-conjecture"  title="Pólya Conjecture" class="arrow">Pólya Conjecture</a></li>
+		<a href="random-selection"  title="Random Selection" class="arrow">Random Selection</a></li>
+		<a href="round-robin-tournament-generator"  title="Round-robin Tournament Generator" class="arrow">Round-robin Tournament Generator</a></li>
+		<a href="spoon-language"  title="Spoon" class="arrow">Spoon</a></li>
+		<a href="syllogism"  title="Syllogisms" class="arrow">Syllogisms</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="programming_language" >Programming Language</h3><ul>
+		<a href="alphuck-language"  title="Alphuck" class="arrow">Alphuck</a></li>
+		<a href="binaryfuck-language"  title="Binaryfuck" class="arrow">Binaryfuck</a></li>
+		<a href="brainfuck-language"  title="Brainfuck" class="arrow">Brainfuck</a></li>
+		<a href="javascript-unobfuscator"  title="Javascript Unobfuscator" class="arrow">Javascript Unobfuscator</a></li>
+		<a href="reversefuck-language"  title="ReverseFuck" class="arrow">ReverseFuck</a></li></ul><span class="contact">...</span></details><ul>
+		<a href="ascii-code"  title="ASCII Code" class="arrow">ASCII Code</a></li>
+		<a href="binary-coded-decimal"  title="Binary Coded Decimal (BCD)" class="arrow">Binary Coded Decimal (BCD)</a></li>
+		<a href="gray-code"  title="Gray Code" class="arrow">Gray Code</a></li>
+		<a href="hash-function"  title="Hash Function" class="arrow">Hash Function</a></li>
+		<a href="javascript-keycodes"  title="Javascript Keycodes" class="arrow">Javascript Keycodes</a></li>
+		<a href="md5-hash"  title="MD5" class="arrow">MD5</a></li>
+		<a href="numeric-keypad-draw"  title="Numeric Keypad Draw" class="arrow">Numeric Keypad Draw</a></li>
+		<a href="negabinary-system"  title="Négabinary" class="arrow">Négabinary</a></li>
+		<a href="ook-language"  title="Ook!" class="arrow">Ook!</a></li>
+		<a href="pikalang-language"  title="Pikalang" class="arrow">Pikalang</a></li>
+		<a href="sha1-hash"  title="SHA-1" class="arrow">SHA-1</a></li>
+		<a href="sha256-hash"  title="SHA-256" class="arrow">SHA-256</a></li>
+		<a href="sha512-hash"  title="SHA-512" class="arrow">SHA-512</a></li>
+		<a href="shannon-index"  title="Shannon Index" class="arrow">Shannon Index</a></li>
+		<a href="spoon-language"  title="Spoon" class="arrow">Spoon</a></li>
+		<a href="timestamp-converter"  title="Timestamp" class="arrow">Timestamp</a></li>
+		<a href="typing-error-generator"  title="Typing Error" class="arrow">Typing Error</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="communication_system" >Communication System</h3><details style="padding-left: 1em;"><summary>
+	<h4 id="telecom" >Telecom</h3><ul>
+		<a href="alternate-mark-inversion-code"  title="Alternate Mark Inversion Code" class="arrow">Alternate Mark Inversion Code</a></li>
+		<a href="baudot-code"  title="Baudot Code" class="arrow">Baudot Code</a></li>
+		<a href="dtmf-code"  title="DTMF Code" class="arrow">DTMF Code</a></li>
+		<a href="manchester-code"  title="Manchester Code" class="arrow">Manchester Code</a></li>
+		<a href="morse-code"  title="Morse Code" class="arrow">Morse Code</a></li>
+		<a href="multitap-abc-cipher"  title="Multi-tap Cipher (SMS Mode ABC)" class="arrow">Multi-tap Cipher (SMS Mode ABC)</a></li>
+		<a href="phone-keypad-cipher"  title="Phone Keypad Cipher" class="arrow">Phone Keypad Cipher</a></li>
+		<a href="phone-number-geolocation"  title="Phone Number Geolocation (France Only)" class="arrow">Phone Number Geolocation (France Only)</a></li>
+		<a href="t9-cipher"  title="T9 Cipher (SMS)" class="arrow">T9 Cipher (SMS)</a></li>
+		<a href="wabun-code"  title="Wabun Code" class="arrow">Wabun Code</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="numeral_system" >Numeral System</h3><ul>
+		<a href="babylonian-numbers"  title="Babylonian Numerals" class="arrow">Babylonian Numerals</a></li>
+		<a href="mayan-numbers"  title="Mayan Numerals" class="arrow">Mayan Numerals</a></li>
+		<a href="writing-number-letters"  title="Number in Letters" class="arrow">Number in Letters</a></li>
+		<a href="roman-numerals"  title="Roman Numerals Conversion" class="arrow">Roman Numerals Conversion</a></li>
+		<a href="shadoks-numeral-system"  title="Shadoks Numeral System" class="arrow">Shadoks Numeral System</a></li>
+		<a href="soroban-abacus"  title="Soroban" class="arrow">Soroban</a></li>
+		<a href="writing-words-numbers"  title="Words in Numbers" class="arrow">Words in Numbers</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="notation_system" >Notation System</h3><ul>
+		<a href="codons-genetic-code"  title="Codons (Genetic Code)" class="arrow">Codons (Genetic Code)</a></li>
+		<a href="electron-configuration"  title="Electron Configuration of Atoms" class="arrow">Electron Configuration of Atoms</a></li>
+		<a href="guitar-chords-notation"  title="Guitar Chords Notation" class="arrow">Guitar Chords Notation</a></li>
+		<a href="insee-french-city-code"  title="INSEE French City Code" class="arrow">INSEE French City Code</a></li>
+		<a href="isbn-book-code"  title="ISBN Book Code" class="arrow">ISBN Book Code</a></li>
+		<a href="chained-inequality"  title="Inequality Chained Notation" class="arrow">Inequality Chained Notation</a></li>
+		<a href="knuth-arrows"  title="Knuth's Arrows" class="arrow">Knuth's Arrows</a></li>
+		<a href="labanotation"  title="Labanotation" class="arrow">Labanotation</a></li>
+		<a href="number-sets"  title="Number Sets" class="arrow">Number Sets</a></li>
+		<a href="parsons-code"  title="Parsons Code" class="arrow">Parsons Code</a></li>
+		<a href="atomic-number-substitution"  title="Periodic Table Cipher" class="arrow">Periodic Table Cipher</a></li>
+		<a href="post-code-france"  title="Postal Code (French)" class="arrow">Postal Code (French)</a></li>
+		<a href="powers-of-10"  title="Powers of 10" class="arrow">Powers of 10</a></li>
+		<a href="reverse-polish-notation"  title="Reverse Polish Notation" class="arrow">Reverse Polish Notation</a></li></ul><span class="contact">...</span></details><ul>
+		<a href="african-accent"  title="African Accent" class="arrow">African Accent</a></li>
+		<a href="braille-alphabet"  title="Braille Alphabet" class="arrow">Braille Alphabet</a></li>
+		<a href="british-accent"  title="British Accent" class="arrow">British Accent</a></li>
+		<a href="dotsies-writing"  title="Dotsies Font" class="arrow">Dotsies Font</a></li>
+		<a href="semaphore-flag"  title="Flag Semaphore" class="arrow">Flag Semaphore</a></li>
+		<a href="french-sign-language"  title="French Sign Language" class="arrow">French Sign Language</a></li>
+		<a href="german-accent"  title="German Accent" class="arrow">German Accent</a></li>
+		<a href="iokharic-language"  title="Iokharic Language" class="arrow">Iokharic Language</a></li>
+		<a href="leet-speak-1337"  title="Leet Speak 1337" class="arrow">Leet Speak 1337</a></li>
+		<a href="maritime-signals-code"  title="Maritime Signals Code" class="arrow">Maritime Signals Code</a></li>
+		<a href="russian-accent"  title="Russian Accent" class="arrow">Russian Accent</a></li>
+		<a href="spanish-accent"  title="Spanish Accent" class="arrow">Spanish Accent</a></li>
+		<a href="uppercase-lowercase"  title="Uppercase Lowercase Writing" class="arrow">Uppercase Lowercase Writing</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="data_processing" >Data processing</h3><details style="padding-left: 1em;"><summary>
+	<h4 id="text_processing" >Text processing</h3><ul>
+		<a href="delete-diacritics"  title="Diacritics" class="arrow">Diacritics</a></li>
+		<a href="typoglycemia-generator"  title="Typoglycemia" class="arrow">Typoglycemia</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="image_processing" >Image processing</h3><ul>
+		<a href="barcode-128"  title="Barcode 128" class="arrow">Barcode 128</a></li>
+		<a href="barcode-39"  title="Barcode 39" class="arrow">Barcode 39</a></li>
+		<a href="barcodes"  title="Barcode Generator" class="arrow">Barcode Generator</a></li>
+		<a href="cmyk-channels"  title="CMYK Channels" class="arrow">CMYK Channels</a></li>
+		<a href="cpbitmap-format"  title="CPBitmap Image" class="arrow">CPBitmap Image</a></li>
+		<a href="hsv-channels"  title="HSV Channels" class="arrow">HSV Channels</a></li>
+		<a href="image-channels"  title="Image Channels" class="arrow">Image Channels</a></li>
+		<a href="image-histogram"  title="Image Histogram" class="arrow">Image Histogram</a></li>
+		<a href="binary-image"  title="Image in Binary 0 1" class="arrow">Image in Binary 0 1</a></li>
+		<a href="ocr-optical-character-recognition-text"  title="OCR - Character Recognition" class="arrow">OCR - Character Recognition</a></li>
+		<a href="png-chunks"  title="PNG Chunks" class="arrow">PNG Chunks</a></li>
+		<a href="qr-code"  title="QR Code" class="arrow">QR Code</a></li>
+		<a href="rgb-channels"  title="RGB Channels" class="arrow">RGB Channels</a></li></ul><span class="contact">...</span></details><details style="padding-left: 1em;"><summary>
+	<h4 id="raw_data" >Raw Data</h3><ul>
+		<a href="money-coins-banknotes"  title="Coins and Banknotes" class="arrow">Coins and Banknotes</a></li>
+		<a href="html-editor"  title="HTML" class="arrow">HTML</a></li>
+		<a href="isbn-book-code"  title="ISBN Book Code" class="arrow">ISBN Book Code</a></li>
+		<a href="javascript-editor"  title="Javascript" class="arrow">Javascript</a></li>
+		<a href="monoyer-chart"  title="Monoyer Chart" class="arrow">Monoyer Chart</a></li>
+		<a href="playing-cards"  title="Playing Cards" class="arrow">Playing Cards</a></li>
+		<a href="snellen-chart"  title="Snellen Chart" class="arrow">Snellen Chart</a></li>
+		<a href="tarot-cards"  title="Tarot Cards" class="arrow">Tarot Cards</a></li>
+		<a href="4-four-elements"  title="The 4 Elements" class="arrow">The 4 Elements</a></li></ul><span class="contact">...</span></details><ul>
+		<a href="abbreviation-list-generator"  title="Abbreviations List Generator" class="arrow">Abbreviations List Generator</a></li>
+		<a href="acronym-generator"  title="Acronyms Generator" class="arrow">Acronyms Generator</a></li>
+		<a href="acrostic-extraction"  title="Acrostic Extractor" class="arrow">Acrostic Extractor</a></li>
+		<a href="arithmetic-mean"  title="Arithmetic Mean" class="arrow">Arithmetic Mean</a></li>
+		<a href="benford-law"  title="Benford's Law" class="arrow">Benford's Law</a></li>
+		<a href="common-items"  title="Common Items" class="arrow">Common Items</a></li>
+		<a href="common-point"  title="Common Point" class="arrow">Common Point</a></li>
+		<a href="differences-2-texts"  title="Differences between 2 Texts" class="arrow">Differences between 2 Texts</a></li>
+		<a href="duplicates-detector"  title="Duplicates in a List" class="arrow">Duplicates in a List</a></li>
+		<a href="even-odd"  title="Even or Odd Numbers" class="arrow">Even or Odd Numbers</a></li>
+		<a href="geometric-mean"  title="Geometric Mean" class="arrow">Geometric Mean</a></li>
+		<a href="group-letters-splitting"  title="Group of Letters Splitting" class="arrow">Group of Letters Splitting</a></li>
+		<a href="homoglyphs-homographs-generator"  title="Homoglyphs/Homographs Generator" class="arrow">Homoglyphs/Homographs Generator</a></li>
+		<a href="language-recognition"  title="Language Recognition" class="arrow">Language Recognition</a></li>
+		<a href="leading-zeros"  title="Leading Zeros" class="arrow">Leading Zeros</a></li>
+		<a href="letters-extraction"  title="Letters Extraction" class="arrow">Letters Extraction</a></li>
+		<a href="levenshtein-distance"  title="Levenshtein Distance" class="arrow">Levenshtein Distance</a></li>
+		<a href="mean"  title="Mean of Numbers" class="arrow">Mean of Numbers</a></li>
+		<a href="median"  title="Median of Numbers" class="arrow">Median of Numbers</a></li>
+		<a href="non-common-items"  title="Non Common Items" class="arrow">Non Common Items</a></li>
+		<a href="characters-letters-text-count"  title="Number of Characters" class="arrow">Number of Characters</a></li>
+		<a href="numbers-ending-with-some-digits"  title="Numbers Ending With..." class="arrow">Numbers Ending With...</a></li>
+		<a href="ocr-optical-character-recognition-text"  title="OCR - Character Recognition" class="arrow">OCR - Character Recognition</a></li>
+		<a href="png-chunks"  title="PNG Chunks" class="arrow">PNG Chunks</a></li>
+		<a href="password-variation"  title="Passwords Variations" class="arrow">Passwords Variations</a></li>
+		<a href="phrase-counter"  title="Phrase Counter" class="arrow">Phrase Counter</a></li>
+		<a href="plagiarism-detector"  title="Plagiarism Detector" class="arrow">Plagiarism Detector</a></li>
+		<a href="precision-recall"  title="Precision and Recall" class="arrow">Precision and Recall</a></li>
+		<a href="quartiles"  title="Quartile of Numbers" class="arrow">Quartile of Numbers</a></li>
+		<a href="regular-expression-analyser"  title="Regular Expression Analyzer" class="arrow">Regular Expression Analyzer</a></li>
+		<a href="regexp-replacement"  title="Regular Expression Replacement" class="arrow">Regular Expression Replacement</a></li>
+		<a href="regexp-search"  title="Regular Expression Search" class="arrow">Regular Expression Search</a></li>
+		<a href="regular-expression-simplificator"  title="Regular Expression Simplificator" class="arrow">Regular Expression Simplificator</a></li>
+		<a href="rounding-calculator"  title="Rounding Calculator" class="arrow">Rounding Calculator</a></li>
+		<a href="values-separation"  title="Separation with Commas" class="arrow">Separation with Commas</a></li>
+		<a href="sign-positive-negative"  title="Sign (Positive/Negative)" class="arrow">Sign (Positive/Negative)</a></li>
+		<a href="sort-letters"  title="Sort Letters" class="arrow">Sort Letters</a></li>
+		<a href="sort-list"  title="Sort List Items" class="arrow">Sort List Items</a></li>
+		<a href="spaces-remover"  title="Spaces Remover" class="arrow">Spaces Remover</a></li>
+		<a href="markov-chain-text"  title="Text Generator (Markov Chain)" class="arrow">Text Generator (Markov Chain)</a></li>
+		<a href="text-splitter"  title="Text Splitter" class="arrow">Text Splitter</a></li>
+		<a href="typing-error-generator"  title="Typing Error" class="arrow">Typing Error</a></li>
+		<a href="vowels-consonants"  title="Vowels and Consonants" class="arrow">Vowels and Consonants</a></li>
+		<a href="words-count"  title="Word Counter" class="arrow">Word Counter</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="biology" >Biology</h3><ul>
+		<a href="codons-genetic-code"  title="Codons (Genetic Code)" class="arrow">Codons (Genetic Code)</a></li>
+		<a href="game-of-life"  title="Game of Life" class="arrow">Game of Life</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="history" >History</h3><details style="padding-left: 1em;"><summary>
+	<h4 id="belief" >Belief</h3><ul>
+		<a href="bible-search-verse"  title="Bible Verses" class="arrow">Bible Verses</a></li>
+		<a href="chinese-zodiac-sign"  title="Chinese Zodiac Sign" class="arrow">Chinese Zodiac Sign</a></li>
+		<a href="eye-horus-wedjat"  title="Eye of Horus (Wedjat)" class="arrow">Eye of Horus (Wedjat)</a></li>
+		<a href="pythagorean-numerology"  title="Pythagorean Numerology" class="arrow">Pythagorean Numerology</a></li>
+		<a href="4-four-elements"  title="The 4 Elements" class="arrow">The 4 Elements</a></li>
+		<a href="word-value"  title="Word's Value" class="arrow">Word's Value</a></li>
+		<a href="zodiac-sign"  title="Zodiac Sign" class="arrow">Zodiac Sign</a></li></ul><span class="contact">...</span></details><ul>
+		<a href="babylonian-numbers"  title="Babylonian Numerals" class="arrow">Babylonian Numerals</a></li>
+		<a href="eye-horus-wedjat"  title="Eye of Horus (Wedjat)" class="arrow">Eye of Horus (Wedjat)</a></li>
+		<a href="mayan-numbers"  title="Mayan Numerals" class="arrow">Mayan Numerals</a></li>
+		<a href="navajo-code"  title="Navajo Code" class="arrow">Navajo Code</a></li>
+		<a href="roman-numerals"  title="Roman Numerals Conversion" class="arrow">Roman Numerals Conversion</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="physics" >Chemical Physics</h3><ul>
+		<a href="electron-configuration"  title="Electron Configuration of Atoms" class="arrow">Electron Configuration of Atoms</a></li>
+		<a href="atomic-number-substitution"  title="Periodic Table Cipher" class="arrow">Periodic Table Cipher</a></li>
+		<a href="time-dilation"  title="Time Dilation" class="arrow">Time Dilation</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="electronics" >Electronics</h3><ul>
+		<a href="binary-coded-decimal"  title="Binary Coded Decimal (BCD)" class="arrow">Binary Coded Decimal (BCD)</a></li>
+		<a href="boolean-expressions-calculator"  title="Boolean Expressions Calculator" class="arrow">Boolean Expressions Calculator</a></li>
+		<a href="capacitor-color-code"  title="Capacitor Color Code" class="arrow">Capacitor Color Code</a></li>
+		<a href="gray-code"  title="Gray Code" class="arrow">Gray Code</a></li>
+		<a href="resistor-color-code"  title="Resistors' Color Code" class="arrow">Resistors' Color Code</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="fun" >Fun/Miscellaneous</h3><ul>
+		<a href="african-accent"  title="African Accent" class="arrow">African Accent</a></li>
+		<a href="beghilos-spelling"  title="BEGHILOS Spelling" class="arrow">BEGHILOS Spelling</a></li>
+		<a href="benford-law"  title="Benford's Law" class="arrow">Benford's Law</a></li>
+		<a href="bibi-binary-code"  title="Bibi-binary Code" class="arrow">Bibi-binary Code</a></li>
+		<a href="birthday-problem"  title="Birthday Probabilities" class="arrow">Birthday Probabilities</a></li>
+		<a href="british-accent"  title="British Accent" class="arrow">British Accent</a></li>
+		<a href="chinese-zodiac-sign"  title="Chinese Zodiac Sign" class="arrow">Chinese Zodiac Sign</a></li>
+		<a href="collatz-conjecture"  title="Collatz Conjecture" class="arrow">Collatz Conjecture</a></li>
+		<a href="conway-sequence"  title="Conway Sequence" class="arrow">Conway Sequence</a></li>
+		<a href="cube-rotation"  title="Cube Rotation" class="arrow">Cube Rotation</a></li>
+		<a href="day-week-date"  title="Day of the Week of a Date" class="arrow">Day of the Week of a Date</a></li>
+		<a href="dotsies-writing"  title="Dotsies Font" class="arrow">Dotsies Font</a></li>
+		<a href="alphabets-latin-foreign-characters"  title="Foreign Alphabet Characters" class="arrow">Foreign Alphabet Characters</a></li>
+		<a href="game-of-life"  title="Game of Life" class="arrow">Game of Life</a></li>
+		<a href="german-accent"  title="German Accent" class="arrow">German Accent</a></li>
+		<a href="golden-ratio-digits"  title="Golden Ratio Phi Digits 1.61803..." class="arrow">Golden Ratio Phi Digits 1.61803...</a></li>
+		<a href="homoglyphs-homographs-generator"  title="Homoglyphs/Homographs Generator" class="arrow">Homoglyphs/Homographs Generator</a></li>
+		<a href="isogram"  title="Isogram" class="arrow">Isogram</a></li>
+		<a href="latin-date"  title="Latin Date" class="arrow">Latin Date</a></li>
+		<a href="leet-speak-1337"  title="Leet Speak 1337" class="arrow">Leet Speak 1337</a></li>
+		<a href="lychrel-number"  title="Lychrel Number" class="arrow">Lychrel Number</a></li>
+		<a href="magic-square"  title="Magic Square" class="arrow">Magic Square</a></li>
+		<a href="maze-generator"  title="Maze Generator" class="arrow">Maze Generator</a></li>
+		<a href="mirror-writing"  title="Mirror Writing" class="arrow">Mirror Writing</a></li>
+		<a href="pi-digits"  title="Pi Digits 3.14159..." class="arrow">Pi Digits 3.14159...</a></li>
+		<a href="pythagorean-numerology"  title="Pythagorean Numerology" class="arrow">Pythagorean Numerology</a></li>
+		<a href="random-letter"  title="Random Letter" class="arrow">Random Letter</a></li>
+		<a href="random-selection"  title="Random Selection" class="arrow">Random Selection</a></li>
+		<a href="random-word"  title="Random Word" class="arrow">Random Word</a></li>
+		<a href="russian-accent"  title="Russian Accent" class="arrow">Russian Accent</a></li>
+		<a href="decimal-search"  title="Search in Decimals" class="arrow">Search in Decimals</a></li>
+		<a href="shadoks-numeral-system"  title="Shadoks Numeral System" class="arrow">Shadoks Numeral System</a></li>
+		<a href="shankar-speech-defect"  title="Shankar Speech Defect (Q&A)" class="arrow">Shankar Speech Defect (Q&A)</a></li>
+		<a href="spanish-accent"  title="Spanish Accent" class="arrow">Spanish Accent</a></li>
+		<a href="uppercase-lowercase"  title="Uppercase Lowercase Writing" class="arrow">Uppercase Lowercase Writing</a></li>
+		<a href="upside-down-writing"  title="Upside-Down Writing > uʍop ǝpᴉsdn" class="arrow">Upside-Down Writing > uʍop ǝpᴉsdn</a></li>
+		<a href="word-contraction-generator"  title="Word Contraction Generator" class="arrow">Word Contraction Generator</a></li>
+		<a href="words-mixer"  title="Word Mixer" class="arrow">Word Mixer</a></li>
+		<a href="reverse-writing"  title="Writing in Reverse > esreveR" class="arrow">Writing in Reverse > esreveR</a></li>
+		<a href="zodiac-sign"  title="Zodiac Sign" class="arrow">Zodiac Sign</a></li>
+		<a href="e-digits"  title="e Digits 2.71828..." class="arrow">e Digits 2.71828...</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="time" >Date and Time</h3><ul>
+		<a href="date-calculation"  title="Calculation with Dates" class="arrow">Calculation with Dates</a></li>
+		<a href="centuries"  title="Century of a Year" class="arrow">Century of a Year</a></li>
+		<a href="date-format"  title="Date Format" class="arrow">Date Format</a></li>
+		<a href="day-week-date"  title="Day of the Week of a Date" class="arrow">Day of the Week of a Date</a></li>
+		<a href="date-difference"  title="Difference between 2 Dates" class="arrow">Difference between 2 Dates</a></li>
+		<a href="latin-date"  title="Latin Date" class="arrow">Latin Date</a></li>
+		<a href="nth-day-year"  title="Nth Day of the Year" class="arrow">Nth Day of the Year</a></li>
+		<a href="time-dilation"  title="Time Dilation" class="arrow">Time Dilation</a></li>
+		<a href="timestamp-converter"  title="Timestamp" class="arrow">Timestamp</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="steganography" >Steganography</h3><ul>
+		<a href="acrostic-extraction"  title="Acrostic Extractor" class="arrow">Acrostic Extractor</a></li>
+		<a href="anagram-generator"  title="Anagrams Generator" class="arrow">Anagrams Generator</a></li>
+		<a href="binary-character-shape"  title="Binary Character Shapes" class="arrow">Binary Character Shapes</a></li>
+		<a href="boustrophedon-writing"  title="Boustrophedon Writing" class="arrow">Boustrophedon Writing</a></li>
+		<a href="javanais-slang"  title="Javanais" class="arrow">Javanais</a></li>
+		<a href="latin-gibberish"  title="Latin Gibberish" class="arrow">Latin Gibberish</a></li>
+		<a href="letters-extraction"  title="Letters Extraction" class="arrow">Letters Extraction</a></li>
+		<a href="louchebem-language"  title="Louchebem Language" class="arrow">Louchebem Language</a></li>
+		<a href="mirror-writing"  title="Mirror Writing" class="arrow">Mirror Writing</a></li>
+		<a href="palindromes-generator"  title="Palindromes Generator" class="arrow">Palindromes Generator</a></li>
+		<a href="semordnilap-generator"  title="Semordnilap Generator" class="arrow">Semordnilap Generator</a></li>
+		<a href="spectral-analysis"  title="Spectral Analysis" class="arrow">Spectral Analysis</a></li>
+		<a href="trevanion-cipher"  title="Trevanion Cipher" class="arrow">Trevanion Cipher</a></li>
+		<a href="uppercase-lowercase"  title="Uppercase Lowercase Writing" class="arrow">Uppercase Lowercase Writing</a></li>
+		<a href="upside-down-writing"  title="Upside-Down Writing > uʍop ǝpᴉsdn" class="arrow">Upside-Down Writing > uʍop ǝpᴉsdn</a></li>
+		<a href="reverse-writing"  title="Writing in Reverse > esreveR" class="arrow">Writing in Reverse > esreveR</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="geography" >Geography</h3><ul>
+		<a href="antipodal-coordinates"  title="Antipodal Coordinates" class="arrow">Antipodal Coordinates</a></li>
+		<a href="azimuth"  title="Azimuth" class="arrow">Azimuth</a></li>
+		<a href="compass-course"  title="Compass Course" class="arrow">Compass Course</a></li>
+		<a href="coordinates-geolocalization"  title="Coordinates Geolocalization" class="arrow">Coordinates Geolocalization</a></li>
+		<a href="french-departments"  title="French Departments" class="arrow">French Departments</a></li>
+		<a href="geocoding"  title="Geocoding" class="arrow">Geocoding</a></li>
+		<a href="geographic-coordinates-calculation"  title="Geographic Coordinates Calculation" class="arrow">Geographic Coordinates Calculation</a></li>
+		<a href="geographic-distance"  title="Geographic Distance" class="arrow">Geographic Distance</a></li>
+		<a href="insee-french-city-code"  title="INSEE French City Code" class="arrow">INSEE French City Code</a></li>
+		<a href="phone-number-geolocation"  title="Phone Number Geolocation (France Only)" class="arrow">Phone Number Geolocation (France Only)</a></li>
+		<a href="post-code-france"  title="Postal Code (French)" class="arrow">Postal Code (French)</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="music" >Music</h3><ul>
+		<a href="acere-cipher"  title="Acéré Cipher" class="arrow">Acéré Cipher</a></li>
+		<a href="guitar-chords-notation"  title="Guitar Chords Notation" class="arrow">Guitar Chords Notation</a></li>
+		<a href="music-notes"  title="Music Notes" class="arrow">Music Notes</a></li>
+		<a href="music-sheet-cipher"  title="Music Sheet Cipher" class="arrow">Music Sheet Cipher</a></li>
+		<a href="music-sheet"  title="Music Staff Notation" class="arrow">Music Staff Notation</a></li></ul><span class="contact">...</span></details><details open style="padding-left: 1em;"><summary>
+<h3 id="dcode" >dCode</h3><ul>
+		<a href="about"  title="About dCode" class="arrow">About dCode</a></li>
+		<a href="tools-list"  title="All Tools" class="arrow">All Tools</a></li>
+		<a href="mobile-app"  title="dCode Mobile App" class="arrow">dCode Mobile App</a></li></ul><span class="contact">...</span></details>
