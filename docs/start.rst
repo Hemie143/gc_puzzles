@@ -1,5 +1,8 @@
+.. _basics
+
+******
 Basics
-======
+******
 
 * Unless otherwise specified, the cache should lie within 2 miles (3,2 km) of the dummy coordinates. 
 * There must be a distance of 161 meters between physical GC waypoints (including cache locations)
