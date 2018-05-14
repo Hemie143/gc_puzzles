@@ -98,6 +98,60 @@ Full subset of alphabet
         - Cardan Grille
         -
         -
+    *   - Single letters
+        - Polybius Square. Bifid or Trifid Cipher
+        -
+        -
+    *   - Pairs
+        - Playfair Cipher
+        -
+        -
+    *   - Pairs
+        - Four Square Cipher
+        - `Four Square <https://www.dcode.fr/four-squares-cipher>`_
+        -
+    *   - No keyword
+        - Vigenere Cipher
+        -
+        -
+    *   - No keyword
+        - Keyed Vigenere
+        -
+        -
+    *   - No keyword
+        - Auto Keye Vigenere
+        -
+        -
+    *   - Keyword with numbers
+        - Gronsfeld or Bazeries
+        - `Bazeries <https://www.dcode.fr/bazeries-cipher>`_
+        - Coincidence index of language
+    *   - Short keyword
+        - Keyed Caesar
+        -
+        -
+    *   - Long keyword
+        - One Time pad
+        -
+        -
+    *   - Permutation key & cut-sequence
+        - AMSCO Cipher
+        -
+        - Coincidence index of plain text
+    *   - Two keys
+        - Affine Cipher
+        -
+        - Coincidence index of language
+    *   - Long text
+        - Cardan Grille
+        - `Cardan Grille <https://www.dcode.fr/cardan-grille>`_
+        -
+    *   - Grid of numbers
+        - Hill Cipher
+        - `Hill <https://www.dcode.fr/hill-cipher>`_
+        - Low Coincidence Index
+
+
 
 
 
