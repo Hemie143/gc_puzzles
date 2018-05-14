@@ -18,6 +18,7 @@ Welcome to Geocaching - Solving puzzles's documentation!
    indexes
    simple_ciphers
    advanced_ciphers
+   ciphers_identify
 
 Indices and tables
 ==================
