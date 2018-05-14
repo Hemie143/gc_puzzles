@@ -42,5 +42,9 @@ Ciphers with letters only
         - Shadok numbers
         -
         -
-
+    *   - Few letters fom alphabet
+        - Syllables de,da,do,di,be,ba,bo,bi,ke,ka,ko,ki,he,ha,ho,hi.
+        - Bibi-binary Code
+        - `Bibi-binary Code <https://www.dcode.fr/bibi-binary-code>`_
+        -
 
