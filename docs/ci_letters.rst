@@ -123,7 +123,7 @@ Full subset of alphabet
         -
         -
     *   - No keyword
-        - Auto Keye Vigenere
+        - Auto Key Vigenere
         -
         -
     *   - Keyword
