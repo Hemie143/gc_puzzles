@@ -3,48 +3,101 @@
 Ciphers with letters only
 =========================
 
+Limited subset of alphabet
+--------------------------
+
 .. list-table::
-    :widths: 50 50 50 50 50
+    :widths: 50 50 50 50
     :header-rows: 1
 
-    *   - Sort 1
-        - Sort 2
+    *   - Sort
         - Cipher
         - Link
         - Hint
-    *   - Few letters fom alphabet
-        - Only A or B
+    *   - Only A or B
         - Bacon
         -
         -
-    *   - Few letters fom alphabet
-        - A, D, F, G, V & X
+    *   - A, D, F, G, V & X
         - ADFVGX Cipher
         -
         -
-    *   - Few letters fom alphabet
-        - A, D, F, G & X
+    *   - A, D, F, G & X
         - ADFGX Cipher
         -
         -
-    *   - Few letters fom alphabet
-        - E missing
+    *   - E missing
         - Dvorak decoder
         -
         -
-    *   - Few letters fom alphabet
-        - J or Q missing
+    *   - J or Q missing
         - Polybius Square. Bifid or Trifid Cipher
         -
         -
-    *   - Few letters fom alphabet
-        - GA BU ZO MEU
+    *   - GA BU ZO MEU
         - Shadok numbers
         -
         -
-    *   - Few letters fom alphabet
-        - Syllables de,da,do,di,be,ba,bo,bi,ke,ka,ko,ki,he,ha,ho,hi.
+    *   - Syllables de,da,do,di,be,ba,bo,bi,ke,ka,ko,ki,he,ha,ho,hi.
         - Bibi-binary Code
         - `Bibi-binary Code <https://www.dcode.fr/bibi-binary-code>`_
         -
+
+Full subset of alphabet
+-----------------------
+
+.. list-table::
+    :widths: 50 50 50 50
+    :header-rows: 1
+
+    *   - Sort
+        - Cipher
+        - Link
+        - Hint
+    *   - None
+        - Caesar shifts (All ROTs)
+        - `Caesar <https://www.dcode.fr/caesar-cipher>`_
+        - Coincidence index of plain text, Shift in frequency analysis
+    *   - None
+        - Alphabetical Substitution
+        -
+        - Coincidence index of language
+    *   - None
+        - Atbash
+        - `Atbash <https://www.dcode.fr/atbash-mirror-cipher>`_
+        - Coincidence index of language
+    *   - None
+        - Caesar box
+        - `Caesar box <https://www.dcode.fr/caesar-box-cipher>`_
+        - Coincidence index of plain text
+    *   - None
+        - Double Transposition Cipher
+        - `Double Transposition Cipher <https://www.dcode.fr/double-transposition-cipher>`_
+        - Coincidence index of plain text
+    *   - None
+        - Enigma
+        - `Enigma <https://www.dcode.fr/enigma-machine-cipher>`_
+        -
+    *   - None
+        - Fractionated Morse Cipher
+        - `Fractionated Morse Cipher <https://www.dcode.fr/fractionated-morse>`_
+        -
+    *   - Spaces and words
+        - Cryptogram solver
+        -
+        -
+    *   - Grid
+        - Columnar transposition
+        -
+        -
+    *   - Grid
+        - Route Cipher
+        -
+        -
+    *   - Grid
+        - Cardan Grille
+        -
+        -
+
+
 
