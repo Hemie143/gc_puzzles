@@ -82,6 +82,14 @@ Full subset of alphabet
         - Fractionated Morse Cipher
         - `Fractionated Morse Cipher <https://www.dcode.fr/fractionated-morse>`_
         -
+    *   - None
+        - Alberti Wheel
+        - `Alberti Wheel <https://www.dcode.fr/alberti-cipher>`_
+        - Low Coincidence Index
+    *   - None
+        - Autoclave
+        - `Autoclave <https://www.dcode.fr/autoclave-cipher>`_
+        - Low Coincidence Index
     *   - Spaces and words
         - Cryptogram solver
         -
@@ -111,10 +119,6 @@ Full subset of alphabet
         - `Four Square <https://www.dcode.fr/four-squares-cipher>`_
         -
     *   - No keyword
-        - Vigenere Cipher
-        -
-        -
-    *   - No keyword
         - Keyed Vigenere
         -
         -
@@ -122,6 +126,22 @@ Full subset of alphabet
         - Auto Keye Vigenere
         -
         -
+    *   - Keyword
+        - Vigenere Cipher
+        -
+        -
+    *   - Keyword
+        - Beaufort Cipher
+        - `Beaufort <https://www.dcode.fr/beaufort-cipher>`_
+        - Low Coincidence index
+    *   - Keyword
+        - Bellaso Cipher
+        - `Bellaso <https://www.dcode.fr/bellaso-cipher>`_
+        - Low Coincidence index
+    *   - Keyword
+        - Chao Cipher
+        - `Chao <https://www.dcode.fr/chao-cipher>`_
+        - Low Coincidence index
     *   - Keyword with numbers
         - Gronsfeld or Bazeries
         - `Bazeries <https://www.dcode.fr/bazeries-cipher>`_
