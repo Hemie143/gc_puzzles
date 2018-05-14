@@ -1,6 +1,9 @@
 
 .. _ci_letters:
 
+Ciphers with letters only
+=========================
+
 .. list-table::
     :widths: 50 50 50 50 50
     :header-rows: 1
