@@ -3,4 +3,4 @@
 Ciphers Identification
 ======================
 
-Cipher with letters only
+Cipher with letters only :ref:`ci_letters`
