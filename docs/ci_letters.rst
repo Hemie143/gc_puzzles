@@ -143,8 +143,12 @@ Full subset of alphabet
         - `Chao <https://www.dcode.fr/chao-cipher>`_
         - Low Coincidence index
     *   - Keyword with numbers
-        - Gronsfeld or Bazeries
+        - Bazeries
         - `Bazeries <https://www.dcode.fr/bazeries-cipher>`_
+        - Coincidence index of language
+    *   - Keyword with numbers
+        - Gronsfeld
+        - `Gronsfeld <https://www.dcode.fr/gronsfeld-cipher>`_
         - Coincidence index of language
     *   - Short keyword
         - Keyed Caesar
