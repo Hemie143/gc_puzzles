@@ -42,6 +42,10 @@ Limited subset of alphabet
         - Bibi-binary Code
         - `Bibi-binary Code <https://www.dcode.fr/bibi-binary-code>`_
         -
+    *   - 9 distinct characters (at most)
+        - Collon Ciper
+        - `Collon Cipher <https://www.dcode.fr/collon-cipher>`_
+        -
 
 Full subset of alphabet
 -----------------------
@@ -89,6 +93,10 @@ Full subset of alphabet
     *   - None
         - Autoclave
         - `Autoclave <https://www.dcode.fr/autoclave-cipher>`_
+        - Low Coincidence Index
+    *   - Alphabet and '#'
+        - Digrafid Cipher
+        - `Digrafid Cipher <https://www.dcode.fr/digrafid-cipher>`_
         - Low Coincidence Index
     *   - Spaces and words
         - Cryptogram solver
@@ -150,6 +158,10 @@ Full subset of alphabet
         - Gronsfeld
         - `Gronsfeld <https://www.dcode.fr/gronsfeld-cipher>`_
         - Coincidence index of language
+    *   - Keyword=number, repeated letters
+        - Burrows Wheeler Transform
+        - `BWT <https://www.dcode.fr/burrows-wheeler-transform>`_
+        -
     *   - Short keyword
         - Keyed Caesar
         -
